@@ -1,0 +1,10 @@
+{
+    "name": "Shipwire Receivings API",
+    "baseUrl": "https://api.shipwire.com",
+    "documentationUrl": "https://dbqm3ldcnkon5.cloudfront.net/yaml-resolved/v3.0-receivings.yml",
+    "description": "Allows managing inventory at Shipwire and Shipwire Anywhere warehouses using receiving orders",
+    "tags": [
+        "shipwire",
+        "receivings"
+    ]
+}

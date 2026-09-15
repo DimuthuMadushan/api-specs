@@ -1,0 +1,11 @@
+{
+    "name": "Microsoft Outlook Calendar API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft Outlook Calendar API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering calendars, calendar groups, events, calendar view, meeting times and places.",
+    "tags": [
+        "microsoft",
+        "outlook",
+        "calendar"
+    ]
+}

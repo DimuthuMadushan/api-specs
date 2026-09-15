@@ -1,0 +1,9 @@
+{
+    "name": "IPGeolocation.io",
+    "baseUrl": "https://api.ipgeolocation.io",
+    "documentationUrl": "https://raw.githubusercontent.com/IPGeolocation/openapi/main/openapi.yaml",
+    "description": "Combined OpenAPI specification for all IPGeolocation.io APIs. Includes IP Geolocation, IP Security, ASN Lookup, Abuse Contact, Astronomy, Timezone, and User Agent endpoints.",
+    "tags": [
+        "ipgeolocation"
+    ]
+}

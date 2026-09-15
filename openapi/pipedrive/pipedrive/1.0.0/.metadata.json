@@ -1,0 +1,9 @@
+{
+    "name": "Pipedrive API v1",
+    "baseUrl": "https://api.pipedrive.com/v1",
+    "documentationUrl": "https://developers.pipedrive.com/docs/api/v1/openapi.yaml",
+    "description": "Pipedrive API.",
+    "tags": [
+        "pipedrive"
+    ]
+}

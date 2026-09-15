@@ -1,0 +1,9 @@
+{
+    "name": "Intercom API",
+    "baseUrl": "https://api.intercom.io",
+    "documentationUrl": "https://raw.githubusercontent.com/intercom/Intercom-OpenAPI/main/descriptions/2.11/api.intercom.io.yaml",
+    "description": "The intercom API reference.",
+    "tags": [
+        "intercom"
+    ]
+}

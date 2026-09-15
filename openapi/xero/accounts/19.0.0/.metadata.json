@@ -1,0 +1,10 @@
+{
+    "name": "Xero Accounting API",
+    "baseUrl": "https://api.xero.com/api.xro/2.0",
+    "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_accounting.yaml",
+    "description": "Xero Accounts API.",
+    "tags": [
+        "xero",
+        "accounts"
+    ]
+}

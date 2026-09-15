@@ -1,0 +1,10 @@
+{
+    "name": "Microsoft Entra ID (Azure AD) API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft Entra ID (Azure AD) API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering users, groups, applications, service principals, directory roles, devices, domains and organization directory objects.",
+    "tags": [
+        "azure",
+        "ad"
+    ]
+}

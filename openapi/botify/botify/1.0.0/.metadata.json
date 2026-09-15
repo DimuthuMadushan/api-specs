@@ -1,0 +1,9 @@
+{
+    "name": "Botify API",
+    "baseUrl": "https://api.botify.com/v1",
+    "documentationUrl": "https://api.botify.com/v1/swagger.json",
+    "description": "Botify Saas API",
+    "tags": [
+        "botify"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Get Current US Weather from Zip Code API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/current-weather-zip-code",
+    "description": "This API retrieves current weather data for a given US zip code using real-time weather information from reliable sources. To use this API, you need an API key. Register for an API key at Interzoid Registration. For more information about this API, visit the Interzoid Current Weather Zip Code API Documentation. You can also try this API interactively or in high-speed batch mode.",
+    "tags": [
+        "interzoid",
+        "weatherzip"
+    ]
+}

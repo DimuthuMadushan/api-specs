@@ -1,0 +1,11 @@
+{
+    "name": "Azure OpenAI Service API",
+    "baseUrl": "https://your-resource-name.openai.azure.com/openai",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
+    "description": "Azure OpenAI APIs for completions and search",
+    "tags": [
+        "azure",
+        "openai",
+        "text"
+    ]
+}

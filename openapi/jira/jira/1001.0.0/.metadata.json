@@ -1,0 +1,9 @@
+{
+    "name": "The Jira Cloud platform REST API",
+    "baseUrl": "https://your-domain.atlassian.net",
+    "documentationUrl": "http://www.atlassian.com",
+    "description": "Jira Cloud platform REST API documentation",
+    "tags": [
+        "jira"
+    ]
+}

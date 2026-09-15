@@ -1,0 +1,10 @@
+{
+    "name": "Adobe Analytics APIs",
+    "baseUrl": "https://analytics.adobe.io",
+    "documentationUrl": "https://raw.githubusercontent.com/AdobeDocs/analytics-2.0-apis/master/docs/swagger.json",
+    "description": "The endpoints described here are routed through Adobe.io. In order to use these endpoints you must create an oAuth client that is subscribed to access the Adobe Analytics Reporting API.",
+    "tags": [
+        "adobe",
+        "analytics"
+    ]
+}

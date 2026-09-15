@@ -1,0 +1,10 @@
+{
+    "name": "Service Management Public REST API",
+    "baseUrl": "https://your-domain.atlassian.net",
+    "documentationUrl": "https://developer.atlassian.com/cloud/jira/service-desk/swagger.v3.json",
+    "description": "Public REST API for Jira Service Management",
+    "tags": [
+        "jira",
+        "servicemanagement"
+    ]
+}

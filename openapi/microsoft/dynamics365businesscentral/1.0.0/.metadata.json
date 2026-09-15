@@ -1,0 +1,10 @@
+{
+    "name": "(v1.0) Dynamics 365 Business Central",
+    "baseUrl": "https://api.businesscentral.dynamics.com/v2.0/sandbox/api/v1.0",
+    "documentationUrl": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v1.0/contracts/bcoas1.0.yaml",
+    "description": "(v1.0) Business Central Standard APIs",
+    "tags": [
+        "microsoft",
+        "dynamics365businesscentral"
+    ]
+}

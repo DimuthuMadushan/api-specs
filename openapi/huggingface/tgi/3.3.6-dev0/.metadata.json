@@ -1,0 +1,10 @@
+{
+    "name": "Text Generation Inference",
+    "baseUrl": "",
+    "documentationUrl": "https://raw.githubusercontent.com/huggingface/text-generation-inference/main/docs/openapi.json",
+    "description": "Text Generation Webserver",
+    "tags": [
+        "huggingface",
+        "tgi"
+    ]
+}

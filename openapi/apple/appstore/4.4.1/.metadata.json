@@ -1,0 +1,10 @@
+{
+    "name": "App Store Connect API",
+    "baseUrl": "https://api.appstoreconnect.apple.com",
+    "documentationUrl": "https://developer.apple.com/sample-code/app-store-connect/app-store-connect-openapi-specification.zip",
+    "description": "Apple AppStore API.",
+    "tags": [
+        "apple",
+        "appstore"
+    ]
+}

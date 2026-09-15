@@ -1,0 +1,10 @@
+{
+    "name": "QnAMaker Client",
+    "baseUrl": "{Endpoint}/qnamaker/v4.0",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMaker.json",
+    "description": "An API for QnAMaker Service",
+    "tags": [
+        "azure",
+        "qnamaker"
+    ]
+}

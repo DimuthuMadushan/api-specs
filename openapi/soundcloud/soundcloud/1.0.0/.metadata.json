@@ -1,0 +1,9 @@
+{
+    "name": "SoundCloud Public API Specification",
+    "baseUrl": "https://api.soundcloud.com",
+    "documentationUrl": "https://raw.githubusercontent.com/soundcloud/api/master/openapi/api.yaml",
+    "description": "Swagger json can be found here Cookie manager",
+    "tags": [
+        "soundcloud"
+    ]
+}

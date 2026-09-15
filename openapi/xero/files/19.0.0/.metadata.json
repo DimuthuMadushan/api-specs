@@ -1,0 +1,10 @@
+{
+    "name": "Xero Files API",
+    "baseUrl": "https://api.xero.com/files.xro/1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_files.yaml",
+    "description": "These endpoints are specific to Xero Files API",
+    "tags": [
+        "xero",
+        "files"
+    ]
+}

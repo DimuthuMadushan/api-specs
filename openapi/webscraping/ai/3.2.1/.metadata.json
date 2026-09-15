@@ -1,0 +1,10 @@
+{
+    "name": "WebScraping.AI",
+    "baseUrl": "https://api.webscraping.ai",
+    "documentationUrl": "https://webscraping.ai/openapi.yml",
+    "description": "WebScraping.AI scraping API provides LLM-powered tools with Chromium JavaScript rendering, rotating proxies, and built-in HTML parsing.",
+    "tags": [
+        "webscraping",
+        "ai"
+    ]
+}

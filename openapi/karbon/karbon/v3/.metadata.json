@@ -1,0 +1,9 @@
+{
+    "name": "Karbon API",
+    "baseUrl": "https://api.karbonhq.com",
+    "documentationUrl": "https://developers.karbonhq.com/release-notes/",
+    "description": "📖 Agent/developer quick-reference: See KARBON API.md in this repository. This document covers Karbon API endpoints and data formats. You can find additional developer resources at Karbon Developer Center. Please note the following: - Karbon's APIs use the OData standard to help with resource searching. Use OData's reference guide to learn more about OData URI conventions. - OData's $expand option is only available where explicitly mentioned.",
+    "tags": [
+        "karbon"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "commercetools Composable Commerce API",
+    "baseUrl": "https://api.us-central1.gcp.commercetools.com",
+    "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
+    "description": "CommerceTools Customizedata API.",
+    "tags": [
+        "commercetools",
+        "customizedata"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Anomaly Detector Client",
+    "baseUrl": "{Endpoint}/anomalydetector/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AnomalyDetector/stable/v1.0/AnomalyDetector.json",
+    "description": "The Anomaly Detector API detects anomalies automatically in time series data. It supports two kinds of mode, one is for stateless using, another is for stateful using. In stateless mode, there are three functionalities. Entire Detect is for detecting the whole series with model trained by the time series, Last Detect is detecting last point with model trained by points before. ChangePoint Detect is for detecting trend changes in time series.",
+    "tags": [
+        "azure",
+        "anomalydetector"
+    ]
+}

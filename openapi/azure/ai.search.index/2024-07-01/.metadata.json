@@ -1,0 +1,12 @@
+{
+    "name": "SearchIndexClient",
+    "baseUrl": "{endpoint}/indexes('{indexName}')",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/search/data-plane/Search/stable/2024-07-01/searchindex.json",
+    "description": "Client that can be used to query an index and upload, merge, or delete documents.",
+    "tags": [
+        "azure",
+        "ai",
+        "search",
+        "index"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Microsoft Outlook Mail API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft Outlook Mail API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering messages, mail folders, attachments, sending mail and inference classification.",
+    "tags": [
+        "microsoft",
+        "outlook",
+        "mail"
+    ]
+}

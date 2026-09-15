@@ -1,0 +1,10 @@
+{
+    "name": "Xero AppStore API",
+    "baseUrl": "https://api.xero.com/appstore/2.0",
+    "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-app-store.yaml",
+    "description": "These endpoints are for Xero Partners to interact with the App Store Billing platform",
+    "tags": [
+        "xero",
+        "appstore"
+    ]
+}

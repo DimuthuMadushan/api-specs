@@ -1,0 +1,10 @@
+{
+    "name": "Microsoft OneDrive API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft OneDrive API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering drives, drive items, folders, uploads, permissions, versions and shared items.",
+    "tags": [
+        "microsoft",
+        "onedrive"
+    ]
+}

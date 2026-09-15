@@ -1,0 +1,11 @@
+{
+    "name": "Azure Blob Storage",
+    "baseUrl": "{url}",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/data-plane/Microsoft.BlobStorage/stable/2021-12-02/blob.json",
+    "description": "Azure Storage Blob API.",
+    "tags": [
+        "azure",
+        "storage",
+        "blob"
+    ]
+}
