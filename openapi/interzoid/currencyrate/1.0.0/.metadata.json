@@ -1,0 +1,10 @@
+{
+    "name": "Get Live Currency Rate API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/live-currency-exchange-rates",
+    "description": "This API provides real-time currency exchange rates for a specified currency symbol, leveraging up-to-date financial data sources. To use this API, you need an API key. Register for an API key at Interzoid Registration. For more information about this API, visit the Interzoid Live Currency Exchange Rates API Documentation. You can also try this API interactively or in high-speed batch mode.",
+    "tags": [
+        "interzoid",
+        "currencyrate"
+    ]
+}

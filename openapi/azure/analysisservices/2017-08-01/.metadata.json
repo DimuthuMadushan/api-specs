@@ -1,0 +1,10 @@
+{
+    "name": "AzureAnalysisServices",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/analysisservices/resource-manager/Microsoft.AnalysisServices/stable/2017-08-01/analysisservices.json",
+    "description": "The Azure Analysis Services Web API provides a RESTful set of web services that enables users to create, retrieve, update, and delete Analysis Services servers",
+    "tags": [
+        "azure",
+        "analysisservices"
+    ]
+}

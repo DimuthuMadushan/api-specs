@@ -1,0 +1,9 @@
+{
+    "name": "Mistral AI API",
+    "baseUrl": "https://api.mistral.ai",
+    "documentationUrl": "https://raw.githubusercontent.com/mistralai/platform-docs-public/main/openapi.yaml",
+    "description": "Our Chat Completion and Embeddings APIs specification. Create your account on La Plateforme to get access and read the docs to learn how to use it.",
+    "tags": [
+        "mistral"
+    ]
+}

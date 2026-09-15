@@ -1,0 +1,9 @@
+{
+    "name": "tmdb-api",
+    "baseUrl": "https://api.themoviedb.org",
+    "documentationUrl": "https://developer.themoviedb.org/openapi/tmdb-api.json",
+    "description": "TheMovieDB API.",
+    "tags": [
+        "themoviedb"
+    ]
+}

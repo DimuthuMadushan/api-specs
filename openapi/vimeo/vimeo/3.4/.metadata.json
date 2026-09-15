@@ -1,0 +1,9 @@
+{
+    "name": "Vimeo API",
+    "baseUrl": "https://api.vimeo.com",
+    "documentationUrl": "https://raw.githubusercontent.com/vimeo/openapi/master/api.yaml",
+    "description": "Vimeo API.",
+    "tags": [
+        "vimeo"
+    ]
+}

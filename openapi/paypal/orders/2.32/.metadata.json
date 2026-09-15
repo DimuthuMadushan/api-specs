@@ -1,0 +1,10 @@
+{
+    "name": "Orders",
+    "baseUrl": "https://api-m.paypal.com",
+    "documentationUrl": "../doc/USERGUIDE.md",
+    "description": "An order represents a payment between two or more parties. Use the Orders API to create, update, retrieve, authorize, and capture orders.",
+    "tags": [
+        "paypal",
+        "orders"
+    ]
+}

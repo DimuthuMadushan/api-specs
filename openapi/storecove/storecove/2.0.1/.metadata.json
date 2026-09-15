@@ -1,0 +1,9 @@
+{
+    "name": "Storecove API",
+    "baseUrl": "https://api.storecove.com/api/v2",
+    "documentationUrl": "https://api.storecove.com/api/v2/openapi.json",
+    "description": "Storecove API",
+    "tags": [
+        "storecove"
+    ]
+}

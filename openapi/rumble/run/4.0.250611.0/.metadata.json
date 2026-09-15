@@ -1,0 +1,10 @@
+{
+    "name": "runZero API",
+    "baseUrl": "https://console.runzero.com/api/v1.0",
+    "documentationUrl": "https://api.swaggerhub.com/apis/runZero/runZero/4.0.250611.0",
+    "description": "runZero API. API use is rate limited, you can make as many calls per day as you have licensed assets.",
+    "tags": [
+        "rumble",
+        "run"
+    ]
+}

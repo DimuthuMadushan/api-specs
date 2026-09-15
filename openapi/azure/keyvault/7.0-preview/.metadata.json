@@ -1,0 +1,10 @@
+{
+    "name": "KeyVaultClient",
+    "baseUrl": "{vaultBaseUrl}",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/keyvault/data-plane/Microsoft.KeyVault/preview/7.0/keyvault.json",
+    "description": "The key vault client performs cryptographic key operations and vault operations against the Key Vault service.",
+    "tags": [
+        "azure",
+        "keyvault"
+    ]
+}

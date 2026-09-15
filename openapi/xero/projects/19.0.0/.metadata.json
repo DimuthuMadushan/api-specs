@@ -1,0 +1,10 @@
+{
+    "name": "Xero Projects API",
+    "baseUrl": "https://api.xero.com/projects.xro/2.0",
+    "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-projects.yaml",
+    "description": "This is the Xero Projects API",
+    "tags": [
+        "xero",
+        "projects"
+    ]
+}

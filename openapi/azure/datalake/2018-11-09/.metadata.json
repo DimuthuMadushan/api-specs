@@ -1,0 +1,10 @@
+{
+    "name": "Azure Data Lake Storage REST API",
+    "baseUrl": "https://{accountName}.{dnsSuffix}",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/data-plane/Microsoft.StorageDataLake/stable/2018-11-09/DataLakeStorage.json",
+    "description": "Azure Data Lake Storage provides storage for Hadoop and other big data workloads.",
+    "tags": [
+        "azure",
+        "datalake"
+    ]
+}

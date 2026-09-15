@@ -1,0 +1,10 @@
+{
+    "name": "Microsoft OneNote API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft OneNote API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering notebooks, sections, section groups, pages and OneNote resources.",
+    "tags": [
+        "microsoft",
+        "onenote"
+    ]
+}

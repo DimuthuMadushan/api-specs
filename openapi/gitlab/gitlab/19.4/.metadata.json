@@ -1,0 +1,9 @@
+{
+    "name": "GitLab REST API",
+    "baseUrl": "https://gitlab.com",
+    "documentationUrl": "https://raw.githubusercontent.com/gitlabhq/gitlabhq/master/doc/api/openapi/openapi_v3.yaml",
+    "description": "GitLab REST API used to interact with a GitLab installation.",
+    "tags": [
+        "gitlab"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Zoom API",
+    "baseUrl": "https://api.zoom.us/v2",
+    "documentationUrl": "https://zoom.github.io/api",
+    "description": "API Description",
+    "tags": [
+        "zoom"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "The Plaid API",
+    "baseUrl": "https://production.plaid.com",
+    "documentationUrl": "https://raw.githubusercontent.com/plaid/plaid-openapi/master/2020-09-14.yml",
+    "description": "The Plaid REST API. Please see https://plaid.com/docs/api for more details.",
+    "tags": [
+        "plaid"
+    ]
+}

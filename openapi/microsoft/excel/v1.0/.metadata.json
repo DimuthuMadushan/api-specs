@@ -1,0 +1,10 @@
+{
+    "name": "Microsoft Excel API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+    "description": "Microsoft Excel API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering workbook, worksheet, range, table, chart and pivot-table operations on files stored in OneDrive and SharePoint.",
+    "tags": [
+        "microsoft",
+        "excel"
+    ]
+}

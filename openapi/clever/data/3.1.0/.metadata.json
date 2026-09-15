@@ -1,0 +1,10 @@
+{
+    "name": "Data API",
+    "baseUrl": "https://api.clever.com/v3.1",
+    "documentationUrl": "https://raw.githubusercontent.com/Clever/swagger-api/master/v3.1.yml",
+    "description": "Serves the Clever Data API",
+    "tags": [
+        "clever",
+        "data"
+    ]
+}

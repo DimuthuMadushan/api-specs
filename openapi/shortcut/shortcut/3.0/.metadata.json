@@ -1,0 +1,9 @@
+{
+    "name": "Shortcut API",
+    "baseUrl": "https://api.app.shortcut.com",
+    "documentationUrl": "https://developer.shortcut.com/api/rest/v3/shortcut.openapi.json",
+    "description": "Shortcut API",
+    "tags": [
+        "shortcut"
+    ]
+}

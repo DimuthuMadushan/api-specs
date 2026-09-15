@@ -1,0 +1,10 @@
+{
+    "name": "Xero Finance API",
+    "baseUrl": "https://api.xero.com/finance.xro/1.0",
+    "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-finance.yaml",
+    "description": "The Finance API is a collection of endpoints which customers can use in the course of a loan application, which may assist lenders to gain the confidence they need to provide capital.",
+    "tags": [
+        "xero",
+        "finance"
+    ]
+}

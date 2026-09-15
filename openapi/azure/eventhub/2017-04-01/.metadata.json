@@ -1,0 +1,10 @@
+{
+    "name": "EventHubManagementClient",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/eventhub/resource-manager/Microsoft.EventHub/stable/2017-04-01/eventhubs.json",
+    "description": "Azure Event Hubs client",
+    "tags": [
+        "azure",
+        "eventhub"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "TimeSeriesInsightsClient",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/timeseriesinsights/resource-manager/Microsoft.TimeSeriesInsights/stable/2020-05-15/timeseriesinsights.json",
+    "description": "Time Series Insights client",
+    "tags": [
+        "azure",
+        "timeseries"
+    ]
+}

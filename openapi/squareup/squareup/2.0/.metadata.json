@@ -1,0 +1,9 @@
+{
+    "name": "Square",
+    "baseUrl": "https://connect.squareup.com",
+    "documentationUrl": "https://raw.githubusercontent.com/square/connect-api-specification/master/api.json",
+    "description": "Use Square APIs to manage and run business including payment, customer, product, inventory, and employee management.",
+    "tags": [
+        "squareup"
+    ]
+}

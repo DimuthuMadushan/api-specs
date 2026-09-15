@@ -1,0 +1,9 @@
+{
+    "name": "Recurly V3 API",
+    "baseUrl": "https://v3.recurly.com",
+    "documentationUrl": "https://raw.githubusercontent.com/recurly/recurly-client-python/v3-v2021-02-25/openapi/api.yaml",
+    "description": "Getting Started Versioning The V3 API is versioned to allow stability for integrators and flexibility for Recurly to continue making improvements. The versions follow a format that incorporates the approximate date the changes were released in a YYYY-MM-DD format, e.g. v2021-02-25 . WARNING : Specifying a version is required to get a successful response.",
+    "tags": [
+        "recurly"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Interzoid State Data Standardization API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/services/getstateabbreviation",
+    "description": "This API provides the two-letter state abbreviation (or the province abbreviation for Canada) for the purposes of standardizing state name data, improving query results, analytics, and data merging.",
+    "tags": [
+        "interzoid",
+        "statedata"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Power BI Client",
+    "baseUrl": "https://api.powerbi.com",
+    "documentationUrl": "https://raw.githubusercontent.com/microsoft/PowerBI-CSharp/master/sdk/swaggers/swagger.json",
+    "description": "Power BI API.",
+    "tags": [
+        "power",
+        "bi"
+    ]
+}

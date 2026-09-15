@@ -1,0 +1,9 @@
+{
+    "name": "PocketSmith",
+    "baseUrl": "https://api.pocketsmith.com/v2",
+    "documentationUrl": "https://raw.githubusercontent.com/pocketsmith/api/master/openapi.json",
+    "description": "The PocketSmith API",
+    "tags": [
+        "pocketsmith"
+    ]
+}

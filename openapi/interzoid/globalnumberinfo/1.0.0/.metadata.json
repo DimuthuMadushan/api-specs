@@ -1,0 +1,10 @@
+{
+    "name": "Interzoid Get Global Phone Number Information API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/services/getglobalnumberinfo",
+    "description": "This API provides geographic information for a global telephone number, including city and country information, primary languages spoken, and mobile device identification.",
+    "tags": [
+        "interzoid",
+        "globalnumberinfo"
+    ]
+}

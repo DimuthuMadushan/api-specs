@@ -1,0 +1,10 @@
+{
+    "name": "OpenAI API",
+    "baseUrl": "https://api.openai.com/v1",
+    "documentationUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+    "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference for more details.",
+    "tags": [
+        "openai",
+        "moderations"
+    ]
+}

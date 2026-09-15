@@ -1,0 +1,9 @@
+{
+    "name": "Sakari",
+    "baseUrl": "https://api.sakari.io",
+    "documentationUrl": "https://sakari.io",
+    "description": "Introduction Welcome to the documentation for the Sakari Messaging REST API. Sakari provides an advanced platform to drive large scale customized SMS communication REST is a web-service protocol that lends itself to rapid development by using everyday HTTP and JSON technology. To find out more about our product offering, please visit https://sakari.io. Quickstart For your convenience we have created a quickstart guide to get you up and running in 5 minutes.",
+    "tags": [
+        "sakari"
+    ]
+}

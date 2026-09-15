@@ -1,0 +1,9 @@
+{
+    "name": "LaunchDarkly REST API",
+    "baseUrl": "https://app.launchdarkly.com",
+    "documentationUrl": "https://app.launchdarkly.com/api/v2/openapi.json",
+    "description": "This documentation describes LaunchDarkly's REST API. To access the complete OpenAPI spec directly, use Get OpenAPI spec. To learn how to use LaunchDarkly using the user interface (UI) instead, read our product documentation. Authentication LaunchDarkly's REST API uses the HTTPS protocol with a minimum TLS version of 1.2. All REST API resources are authenticated with either personal or service access tokens, or session cookies.",
+    "tags": [
+        "launchdarkly"
+    ]
+}

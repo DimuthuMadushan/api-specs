@@ -1,0 +1,10 @@
+{
+    "name": "Pinecone Data Plane API",
+    "baseUrl": "https://unknown",
+    "documentationUrl": "https://docs.pinecone.io/introduction",
+    "description": "Pinecone is a vector database that makes it easy to search and retrieve billions of high-dimensional vectors.",
+    "tags": [
+        "pinecone",
+        "index"
+    ]
+}

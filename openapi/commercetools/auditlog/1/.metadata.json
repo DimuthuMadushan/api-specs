@@ -1,0 +1,10 @@
+{
+    "name": "commercetools Change History API",
+    "baseUrl": "https://history.europe-west1.gcp.commercetools.com",
+    "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/history/openapi.yaml",
+    "description": "CommerceTools Auditlog API.",
+    "tags": [
+        "commercetools",
+        "auditlog"
+    ]
+}

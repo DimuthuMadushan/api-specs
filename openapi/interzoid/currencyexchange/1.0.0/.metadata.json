@@ -1,0 +1,10 @@
+{
+    "name": "Interzoid Convert Currency Rate API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/services/convertcurrency",
+    "description": "This API enables you to convert an amount of one currency into another currency using current foreign exchange rates.",
+    "tags": [
+        "interzoid",
+        "currencyexchange"
+    ]
+}

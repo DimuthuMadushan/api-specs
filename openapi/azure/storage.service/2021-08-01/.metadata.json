@@ -1,0 +1,11 @@
+{
+    "name": "StorageManagementClient",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/resource-manager/Microsoft.Storage/stable/2021-08-01/storage.json",
+    "description": "The Azure Storage Management API.",
+    "tags": [
+        "azure",
+        "storage",
+        "service"
+    ]
+}

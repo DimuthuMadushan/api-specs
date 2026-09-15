@@ -1,0 +1,9 @@
+{
+    "name": "PandaDoc Public API",
+    "baseUrl": "https://api.pandadoc.com",
+    "documentationUrl": "https://developers.pandadoc.com/openapi/pandadoc-public-api.json",
+    "description": "PandaDoc API spans a broad range of functionality to help you build incredible documents automation experiences inside your product. PandaDoc API is organized around REST. Our API has predictable resource-oriented URLs and uses standard HTTP response codes, authentication, and verbs. Getting started You can start testing PandaDoc API with a sandbox key on our Enterprise plan, either active or in trial.",
+    "tags": [
+        "pandadoc"
+    ]
+}

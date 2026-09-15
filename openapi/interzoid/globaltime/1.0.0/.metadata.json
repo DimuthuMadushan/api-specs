@@ -1,0 +1,10 @@
+{
+    "name": "Interzoid Get Global Time API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/services/getglobaltime",
+    "description": "This API retrieves the current time for a city or geographic location around the globe.",
+    "tags": [
+        "interzoid",
+        "globaltime"
+    ]
+}

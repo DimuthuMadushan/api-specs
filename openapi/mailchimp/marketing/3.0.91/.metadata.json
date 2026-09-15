@@ -1,0 +1,10 @@
+{
+    "name": "Mailchimp Marketing API",
+    "baseUrl": "https://server.api.mailchimp.com/3.0",
+    "documentationUrl": "https://mailchimp.com/developer/marketing/",
+    "description": "Mailchimp Marketing API.",
+    "tags": [
+        "mailchimp",
+        "marketing"
+    ]
+}

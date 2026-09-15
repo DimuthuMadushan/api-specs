@@ -1,0 +1,10 @@
+{
+    "name": "Interzoid Global Page Load Performance API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/services/globalpageload",
+    "description": "This API provides a timed, browser-simulated page load function (or a measured API call) from the specified geography using a server from that geography.",
+    "tags": [
+        "interzoid",
+        "globalpageload"
+    ]
+}

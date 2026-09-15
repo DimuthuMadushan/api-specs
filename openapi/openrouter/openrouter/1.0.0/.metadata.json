@@ -1,0 +1,9 @@
+{
+    "name": "OpenRouter API",
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "documentationUrl": "https://openrouter.ai/docs",
+    "description": "OpenAI-compatible API with additional OpenRouter features",
+    "tags": [
+        "openrouter"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "DocuSign Rooms API - v2",
+    "baseUrl": "https://demo.rooms.docusign.com/restapi",
+    "documentationUrl": "https://developers.docusign.com/docs/rooms-api/reference/",
+    "description": "An API for an integrator to access the features of DocuSign Rooms",
+    "tags": [
+        "docusign",
+        "dsrooms"
+    ]
+}
