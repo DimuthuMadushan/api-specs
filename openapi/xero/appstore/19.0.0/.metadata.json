@@ -2,7 +2,7 @@
     "name": "Xero AppStore API",
     "baseUrl": "https://api.xero.com/appstore/2.0",
     "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-app-store.yaml",
-    "description": "These endpoints are for Xero Partners to interact with the App Store Billing platform",
+    "description": "The Xero App Store API supports billing for apps published on the Xero App Store. It provides endpoints for retrieving subscriptions and subscription items and for posting usage records, enabling partners to manage plans and metered billing for their customers.",
     "tags": [
         "xero",
         "appstore"

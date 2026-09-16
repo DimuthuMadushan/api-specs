@@ -2,7 +2,7 @@
     "name": "Interzoid Global Page Load Performance API",
     "baseUrl": "https://api.interzoid.com",
     "documentationUrl": "https://www.interzoid.com/services/globalpageload",
-    "description": "This API provides a timed, browser-simulated page load function (or a measured API call) from the specified geography using a server from that geography.",
+    "description": "Interzoid provides data quality and reference data APIs. The Global Page Load Performance API measures how long a given web page takes to load from various locations around the world, for use in performance monitoring and geographic benchmarking.",
     "tags": [
         "interzoid",
         "globalpageload"

@@ -2,7 +2,7 @@
     "name": "Microsoft Teams API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft Teams API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering teams, channels, chats, messages, tabs, shifts and Teams app catalog operations.",
+    "description": "Microsoft Teams is Microsoft's collaboration and communication hub. This Microsoft Graph subset provides endpoints for managing teams and their members, channels and channel messages, chats and chat messages, tabs and installed apps, shifts and schedules, and the Teams app catalog.",
     "tags": [
         "microsoft",
         "teams"

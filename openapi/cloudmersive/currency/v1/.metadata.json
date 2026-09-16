@@ -2,7 +2,7 @@
     "name": "currencyapi",
     "baseUrl": "https://testapi.cloudmersive.com",
     "documentationUrl": "https://api-console.cloudmersive.com/swagger/api/spec/currency",
-    "description": "The currency APIs help you retrieve exchange rates and convert prices between currencies easily.",
+    "description": "Cloudmersive Currency provides currency conversion and exchange rate data. The API returns current exchange rates between currency pairs, converts amounts from one currency to another, and lists the currencies available for conversion.",
     "tags": [
         "cloudmersive",
         "currency"

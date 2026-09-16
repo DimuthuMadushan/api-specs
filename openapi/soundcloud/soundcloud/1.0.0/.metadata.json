@@ -2,7 +2,7 @@
     "name": "SoundCloud Public API Specification",
     "baseUrl": "https://api.soundcloud.com",
     "documentationUrl": "https://raw.githubusercontent.com/soundcloud/api/master/openapi/api.yaml",
-    "description": "Swagger json can be found here Cookie manager",
+    "description": "SoundCloud is an audio streaming and distribution platform. The SoundCloud Public API provides endpoints for uploading and managing tracks and playlists, searching the catalog, and retrieving user profiles, followers, likes, reposts, and activity streams.",
     "tags": [
         "soundcloud"
     ]

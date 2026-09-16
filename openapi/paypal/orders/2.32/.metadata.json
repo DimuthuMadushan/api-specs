@@ -2,7 +2,7 @@
     "name": "Orders",
     "baseUrl": "https://api-m.paypal.com",
     "documentationUrl": "../doc/USERGUIDE.md",
-    "description": "An order represents a payment between two or more parties. Use the Orders API to create, update, retrieve, authorize, and capture orders.",
+    "description": "PayPal Orders is part of PayPal's checkout platform. The Orders v2 API creates, updates, and tracks orders through the payment lifecycle, supporting authorization and capture of funds, order confirmation, and shipment tracking for online checkout experiences.",
     "tags": [
         "paypal",
         "orders"

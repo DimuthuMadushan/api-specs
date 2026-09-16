@@ -2,7 +2,7 @@
     "name": "OpenAI API",
     "baseUrl": "https://api.openai.com/v1",
     "documentationUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
-    "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference for more details.",
+    "description": "The OpenAI Embeddings API converts text into numerical vector representations that capture semantic meaning. These embeddings support semantic search, clustering, recommendations, classification, and retrieval-augmented generation, and are commonly used to build vector search over private data.",
     "tags": [
         "openai",
         "embeddings"

@@ -2,7 +2,7 @@
     "name": "Xero Finance API",
     "baseUrl": "https://api.xero.com/finance.xro/1.0",
     "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-finance.yaml",
-    "description": "The Finance API is a collection of endpoints which customers can use in the course of a loan application, which may assist lenders to gain the confidence they need to provide capital.",
+    "description": "The Xero Finance API provides financial data and analytics drawn from a Xero organisation's accounting records. It returns cash flow statements, balance sheets, profit and loss, trial balance, and bank statement summaries, along with cash validation data used in lending and credit assessment.",
     "tags": [
         "xero",
         "finance"

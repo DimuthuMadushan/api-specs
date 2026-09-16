@@ -2,7 +2,7 @@
     "name": "IotCentralClient",
     "baseUrl": "https://management.azure.com",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/iotcentral/resource-manager/Microsoft.IoTCentral/IoTCentral/stable/2021-06-01/iotcentral.json",
-    "description": "Use this API to manage IoT Central Applications in your Azure subscription.",
+    "description": "Azure IoT Central is a managed application platform for connecting and monitoring IoT devices. This management API provides endpoints for creating, listing, updating, and deleting IoT Central applications within a subscription, and for checking name and subdomain availability during provisioning.",
     "tags": [
         "azure",
         "iotcentral"

@@ -2,7 +2,7 @@
     "name": "Xero Assets API",
     "baseUrl": "https://api.xero.com/assets.xro/1.0",
     "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_assets.yaml",
-    "description": "The Assets API exposes fixed asset related functions of the Xero Accounting application and can be used for a variety of purposes such as creating assets, retrieving asset valuations etc.",
+    "description": "The Xero Assets API manages fixed asset registers within a Xero organisation. It provides endpoints for creating and retrieving assets, managing asset types and depreciation settings, and tracking the book value of capital items over their lifecycle.",
     "tags": [
         "xero",
         "assets"

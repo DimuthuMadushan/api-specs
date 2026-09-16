@@ -2,7 +2,7 @@
     "name": "(v1.0) Dynamics 365 Business Central",
     "baseUrl": "https://api.businesscentral.dynamics.com/v2.0/sandbox/api/v1.0",
     "documentationUrl": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v1.0/contracts/bcoas1.0.yaml",
-    "description": "(v1.0) Business Central Standard APIs",
+    "description": "Microsoft Dynamics 365 Business Central is a business management solution for small and mid-sized organizations. Its API provides access to companies, customers, vendors, and items, along with sales invoices, quotes and credit memos, purchase documents, journals, and dimensions, covering finance, sales, purchasing, and inventory.",
     "tags": [
         "microsoft",
         "dynamics365businesscentral"

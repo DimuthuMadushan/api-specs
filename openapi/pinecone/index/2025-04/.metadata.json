@@ -2,7 +2,7 @@
     "name": "Pinecone Data Plane API",
     "baseUrl": "https://unknown",
     "documentationUrl": "https://docs.pinecone.io/introduction",
-    "description": "Pinecone is a vector database that makes it easy to search and retrieve billions of high-dimensional vectors.",
+    "description": "Pinecone is a managed vector database for similarity search. The Data Plane API operates on vectors within an index, supporting upsert, fetch, update, and delete, similarity queries with metadata filtering, namespace management, bulk imports, and index statistics.",
     "tags": [
         "pinecone",
         "index"

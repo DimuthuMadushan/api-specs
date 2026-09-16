@@ -2,7 +2,7 @@
     "name": "WebScraping.AI",
     "baseUrl": "https://api.webscraping.ai",
     "documentationUrl": "https://webscraping.ai/openapi.yml",
-    "description": "WebScraping.AI scraping API provides LLM-powered tools with Chromium JavaScript rendering, rotating proxies, and built-in HTML parsing.",
+    "description": "WebScraping.AI is a web scraping service with built-in proxy rotation and JavaScript rendering. The API returns the full HTML, plain text, or selected elements of a page, answers questions and extracts structured fields from a page using an LLM, and retrieves search engine results.",
     "tags": [
         "webscraping",
         "ai"

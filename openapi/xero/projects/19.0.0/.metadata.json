@@ -2,7 +2,7 @@
     "name": "Xero Projects API",
     "baseUrl": "https://api.xero.com/projects.xro/2.0",
     "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-projects.yaml",
-    "description": "This is the Xero Projects API",
+    "description": "The Xero Projects API supports job and time tracking within a Xero organisation. It provides endpoints for creating and managing projects, tasks, and time entries, and for retrieving project users, enabling time capture and profitability tracking that flows through to invoicing.",
     "tags": [
         "xero",
         "projects"

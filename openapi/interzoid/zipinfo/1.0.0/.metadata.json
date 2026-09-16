@@ -2,7 +2,7 @@
     "name": "Interzoid Zip Code Detailed Info API",
     "baseUrl": "https://api.interzoid.com",
     "documentationUrl": "https://www.interzoid.com/services/getzipcodeinfo",
-    "description": "This API provides detailed information for a given zip code, including city, state, latitude, longitude, area size, and various population demographics.",
+    "description": "Interzoid provides data quality and reference data APIs. The Zip Code Detailed Info API returns demographic and geographic detail for a US zip code, including city, state, latitude and longitude, area size, and population statistics.",
     "tags": [
         "interzoid",
         "zipinfo"

@@ -2,7 +2,7 @@
     "name": "LaunchDarkly REST API",
     "baseUrl": "https://app.launchdarkly.com",
     "documentationUrl": "https://app.launchdarkly.com/api/v2/openapi.json",
-    "description": "This documentation describes LaunchDarkly's REST API. To access the complete OpenAPI spec directly, use Get OpenAPI spec. To learn how to use LaunchDarkly using the user interface (UI) instead, read our product documentation. Authentication LaunchDarkly's REST API uses the HTTPS protocol with a minimum TLS version of 1.2. All REST API resources are authenticated with either personal or service access tokens, or session cookies.",
+    "description": "LaunchDarkly is a feature management and experimentation platform. The LaunchDarkly REST API provides endpoints for managing feature flags, targeting rules, segments, environments, and projects, along with experiments, metrics, approvals, audit logs, and account members.",
     "tags": [
         "launchdarkly"
     ]

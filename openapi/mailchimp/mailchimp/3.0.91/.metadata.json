@@ -2,7 +2,7 @@
     "name": "Mailchimp Marketing API",
     "baseUrl": "https://server.api.mailchimp.com/3.0",
     "documentationUrl": "https://mailchimp.com/developer/marketing/",
-    "description": "Mailchimp API.",
+    "description": "Mailchimp is an email marketing and automation platform. The Marketing API provides endpoints for managing audiences and contacts, creating and sending campaigns, and building automations and customer journeys, along with e-commerce stores and orders and campaign reporting.",
     "tags": [
         "mailchimp"
     ]

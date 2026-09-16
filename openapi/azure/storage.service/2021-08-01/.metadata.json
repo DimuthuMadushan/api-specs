@@ -2,7 +2,7 @@
     "name": "StorageManagementClient",
     "baseUrl": "https://management.azure.com",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/resource-manager/Microsoft.Storage/stable/2021-08-01/storage.json",
-    "description": "The Azure Storage Management API.",
+    "description": "Azure Storage provides scalable cloud storage for blobs, files, queues, and tables. This management API provides endpoints for creating, configuring, and deleting storage accounts, rotating access keys, and managing encryption scopes, private endpoint connections, blob inventory, and object replication policies.",
     "tags": [
         "azure",
         "storage",

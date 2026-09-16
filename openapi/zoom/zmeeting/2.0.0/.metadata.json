@@ -2,7 +2,7 @@
     "name": "Zoom API",
     "baseUrl": "https://api.zoom.us/v2",
     "documentationUrl": "https://zoom.github.io/api",
-    "description": "API Description",
+    "description": "Zoom is a video conferencing and communications platform. This specification covers the Zoom API, including scheduling and managing meetings and webinars, registrants and cloud recordings, along with users, groups, accounts, and usage reporting.",
     "tags": [
         "zoom",
         "zmeeting"

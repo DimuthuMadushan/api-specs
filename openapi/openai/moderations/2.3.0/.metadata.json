@@ -2,7 +2,7 @@
     "name": "OpenAI API",
     "baseUrl": "https://api.openai.com/v1",
     "documentationUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
-    "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference for more details.",
+    "description": "The OpenAI Moderations API classifies text and images against OpenAI's content policy categories such as hate, harassment, self-harm, sexual content, and violence. It returns per-category flags and confidence scores, letting applications filter or review unsafe user-generated content before it is processed or displayed.",
     "tags": [
         "openai",
         "moderations"

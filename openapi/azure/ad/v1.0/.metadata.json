@@ -2,7 +2,7 @@
     "name": "Microsoft Entra ID (Azure AD) API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft Entra ID (Azure AD) API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering users, groups, applications, service principals, directory roles, devices, domains and organization directory objects.",
+    "description": "Microsoft Entra ID, formerly Azure Active Directory, is Microsoft's cloud identity and access management service. This Microsoft Graph subset provides endpoints for managing users, groups and their memberships, applications and service principals, directory roles and role assignments, devices, domains, and organization settings.",
     "tags": [
         "azure",
         "ad"

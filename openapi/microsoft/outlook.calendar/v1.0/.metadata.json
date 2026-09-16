@@ -2,7 +2,7 @@
     "name": "Microsoft Outlook Calendar API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft Outlook Calendar API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering calendars, calendar groups, events, calendar view, meeting times and places.",
+    "description": "Microsoft Outlook Calendar, part of Microsoft Graph, provides access to calendars in Outlook and Microsoft 365. It supports creating and updating events and recurring series, listing calendars and calendar groups, querying a calendar view over a date range, responding to invitations, and finding meeting times.",
     "tags": [
         "microsoft",
         "outlook",

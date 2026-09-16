@@ -2,7 +2,7 @@
     "name": "Proxy API",
     "baseUrl": "https://unify.apideck.com",
     "documentationUrl": "https://developers.apideck.com",
-    "description": "Welcome to the Proxy API. You can use this API to access all Proxy API endpoints. Base URL The base URL for all API requests is https://unify.apideck.com Headers Custom headers that are expected as part of the request. Note that RFC7230 states header names are case insensitive.",
+    "description": "Apideck Proxy forwards requests to a downstream SaaS provider through Apideck's connection and authentication layer. It lets you call any endpoint of a connected API directly while reusing Apideck's stored credentials, consumer context, and connection management.",
     "tags": [
         "apideck",
         "proxy"

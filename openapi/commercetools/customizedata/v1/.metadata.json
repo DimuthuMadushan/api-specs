@@ -2,7 +2,7 @@
     "name": "commercetools Composable Commerce API",
     "baseUrl": "https://api.us-central1.gcp.commercetools.com",
     "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
-    "description": "CommerceTools Customizedata API.",
+    "description": "commercetools is a headless, API-first commerce platform. This Composable Commerce specification covers extending the commerce data model through custom types and fields, custom objects, and product type definitions, alongside the wider catalog, cart, and order resources.",
     "tags": [
         "commercetools",
         "customizedata"

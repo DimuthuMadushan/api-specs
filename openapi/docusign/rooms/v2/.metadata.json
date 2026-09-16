@@ -2,7 +2,7 @@
     "name": "DocuSign Rooms API - v2",
     "baseUrl": "https://demo.rooms.docusign.com/restapi",
     "documentationUrl": "https://developers.docusign.com/docs/rooms-api/reference/",
-    "description": "An API for an integrator to access the features of DocuSign Rooms",
+    "description": "DocuSign Rooms is a transaction management workspace for real estate and mortgage workflows. The Rooms API provides endpoints for creating and managing rooms, invited users and roles, documents, and task lists, along with form groups and libraries and the reference data that drives room fields.",
     "tags": [
         "docusign",
         "rooms"

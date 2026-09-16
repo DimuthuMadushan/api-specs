@@ -2,7 +2,7 @@
     "name": "OpenRouter API",
     "baseUrl": "https://openrouter.ai/api/v1",
     "documentationUrl": "https://openrouter.ai/docs",
-    "description": "OpenAI-compatible API with additional OpenRouter features",
+    "description": "OpenRouter is a unified gateway that routes requests to large language models from many providers through a single API. It offers OpenAI-compatible chat and completion endpoints, model listing and pricing, API key and credit management, usage analytics, and bring-your-own-key provider configuration.",
     "tags": [
         "openrouter"
     ]

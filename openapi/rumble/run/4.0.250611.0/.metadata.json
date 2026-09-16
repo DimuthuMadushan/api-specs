@@ -2,7 +2,7 @@
     "name": "runZero API",
     "baseUrl": "https://console.runzero.com/api/v1.0",
     "documentationUrl": "https://api.swaggerhub.com/apis/runZero/runZero/4.0.250611.0",
-    "description": "runZero API. API use is rate limited, you can make as many calls per day as you have licensed assets.",
+    "description": "runZero is a network discovery and asset inventory platform. The runZero API provides endpoints for querying discovered assets, services, and sites, launching and monitoring scan tasks, exporting inventory data, and administering organizations, users, and account settings.",
     "tags": [
         "rumble",
         "run"

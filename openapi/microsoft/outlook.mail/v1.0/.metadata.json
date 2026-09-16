@@ -2,7 +2,7 @@
     "name": "Microsoft Outlook Mail API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft Outlook Mail API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering messages, mail folders, attachments, sending mail and inference classification.",
+    "description": "Microsoft Outlook Mail, part of Microsoft Graph, provides access to mailboxes in Outlook and Microsoft 365. It supports reading, creating, sending, replying to, and forwarding messages, managing mail folders and attachments, and configuring focused inbox and inference classification rules.",
     "tags": [
         "microsoft",
         "outlook",

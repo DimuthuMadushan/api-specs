@@ -2,7 +2,7 @@
     "name": "commercetools Composable Commerce API",
     "baseUrl": "https://api.us-central1.gcp.commercetools.com",
     "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
-    "description": "CommerceTools Pricingdiscount API.",
+    "description": "commercetools is a headless, API-first commerce platform. This Composable Commerce specification covers product pricing and promotions, including product prices and price selection, discount codes, cart discounts, and product discounts, alongside the wider catalog, cart, and order model.",
     "tags": [
         "commercetools",
         "pricingdiscount"

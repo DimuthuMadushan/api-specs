@@ -2,7 +2,7 @@
     "name": "Text Analytics Client",
     "baseUrl": "{Endpoint}/text/analytics/{ApiVersion}",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/TextAnalytics/stable/v3.1/TextAnalytics.json",
-    "description": "The Text Analytics API is a suite of natural language processing (NLP) services built with best-in-class Microsoft machine learning algorithms. The API can be used to analyze unstructured text for tasks such as sentiment analysis, key phrase extraction and language detection. Functionality for analysis of text specific to the healthcare domain and personal information are also available in the API.",
+    "description": "Azure AI Text Analytics provides natural language processing over raw text. The API detects language, extracts key phrases and named entities, links entities to a knowledge base, analyzes sentiment and opinions, and recognizes personal and health information in documents.",
     "tags": [
         "azure",
         "textanalytics"

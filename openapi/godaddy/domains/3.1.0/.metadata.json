@@ -2,7 +2,7 @@
     "name": "Domain Lifecycle Management API",
     "baseUrl": "https://api.godaddy.com/v3/domains",
     "documentationUrl": "https://developer.godaddy.com/openapi/domains-v3.json",
-    "description": "The GoDaddy Domain Lifecycle Management API provides comprehensive capabilities for discovering, registering, managing, renewing, transferring, and reselling domain names. This is major version 3, designed for agent-first interactions while remaining fully usable by direct API clients and resellers. Namespace All paths are under /v3/domains/ . The namespace is domains (the business capability); the core entity collection is /domain-names .",
+    "description": "GoDaddy is a domain registrar and web services provider. The Domain Lifecycle Management API supports checking domain availability and retrieving suggestions, requesting registration quotes, registering and renewing domains, and managing DNS zones and records.",
     "tags": [
         "godaddy",
         "domains"

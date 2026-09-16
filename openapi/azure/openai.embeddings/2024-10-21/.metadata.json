@@ -2,7 +2,7 @@
     "name": "Azure OpenAI Service API",
     "baseUrl": "https://your-resource-name.openai.azure.com/openai",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
-    "description": "Azure OpenAI APIs for completions and search",
+    "description": "Azure OpenAI Service provides REST access to OpenAI models hosted on Azure with enterprise security and compliance. The embeddings endpoint converts text into vector representations using a deployed embedding model, for use in semantic search, clustering, and retrieval-augmented generation.",
     "tags": [
         "azure",
         "openai",

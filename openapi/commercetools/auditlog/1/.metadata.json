@@ -2,7 +2,7 @@
     "name": "commercetools Change History API",
     "baseUrl": "https://history.europe-west1.gcp.commercetools.com",
     "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/history/openapi.yaml",
-    "description": "CommerceTools Auditlog API.",
+    "description": "commercetools is a headless, API-first commerce platform. The Change History API records modifications made to project resources, letting you query an audit trail of who changed what and when across carts, orders, products, customers, and other resources.",
     "tags": [
         "commercetools",
         "auditlog"

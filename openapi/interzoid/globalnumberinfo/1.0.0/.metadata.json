@@ -2,7 +2,7 @@
     "name": "Interzoid Get Global Phone Number Information API",
     "baseUrl": "https://api.interzoid.com",
     "documentationUrl": "https://www.interzoid.com/services/getglobalnumberinfo",
-    "description": "This API provides geographic information for a global telephone number, including city and country information, primary languages spoken, and mobile device identification.",
+    "description": "Interzoid provides data quality and reference data APIs. The Get Global Phone Number Information API analyses an international phone number and returns details such as country, region, line type, and carrier for validation and data cleansing.",
     "tags": [
         "interzoid",
         "globalnumberinfo"

@@ -2,7 +2,7 @@
     "name": "SearchServiceClient",
     "baseUrl": "{endpoint}",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/search/data-plane/Search/stable/2024-07-01/searchservice.json",
-    "description": "Client that can be used to manage and query indexes and documents, as well as manage other resources, on a search service.",
+    "description": "Azure AI Search provides a managed search service with full-text, vector, and hybrid retrieval. These service endpoints manage the search infrastructure itself, including indexes and their schemas, data sources, indexers, skillsets for AI enrichment, and synonym maps, along with service statistics.",
     "tags": [
         "azure",
         "ai",

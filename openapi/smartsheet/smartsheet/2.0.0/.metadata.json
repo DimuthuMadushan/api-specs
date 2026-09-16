@@ -2,7 +2,7 @@
     "name": "Smartsheet OpenAPI Reference",
     "baseUrl": "https://api.smartsheet.com/2.0",
     "documentationUrl": "https://developers.smartsheet.com/_bundle/api/smartsheet/openapi.yaml",
-    "description": "Welcome to the OpenAPI reference documentation for the Smartsheet API! Important: The Smartsheet API is restricted to users on Business and Enterprise plans The Developer Agreement governs the use of the Smartsheet API and Smartsheet software development kits (SDKs) QUICKLINKS - Base URL: https://api.smartsheet.com/2.0/ - Getting started: Generate an API access token and make a request. - Changelog: See the latest API updates.",
+    "description": "Smartsheet is a work management and collaboration platform built around a familiar spreadsheet interface. The Smartsheet API provides endpoints for managing sheets, rows, columns, and cells, along with reports, dashboards, workspaces, folders, attachments, discussions, automation rules, and sharing.",
     "tags": [
         "smartsheet"
     ]

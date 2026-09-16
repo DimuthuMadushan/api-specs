@@ -2,7 +2,7 @@
     "name": "Data API",
     "baseUrl": "https://api.clever.com/v3.1",
     "documentationUrl": "https://raw.githubusercontent.com/Clever/swagger-api/master/v3.1.yml",
-    "description": "Serves the Clever Data API",
+    "description": "Clever is a data and identity platform for K-12 education. The Data API provides read access to district rostering data, including schools, sections, courses, and terms, along with students, teachers, and administrators, for synchronising classroom applications.",
     "tags": [
         "clever",
         "data"

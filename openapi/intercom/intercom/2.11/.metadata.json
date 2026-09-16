@@ -2,7 +2,7 @@
     "name": "Intercom API",
     "baseUrl": "https://api.intercom.io",
     "documentationUrl": "https://raw.githubusercontent.com/intercom/Intercom-OpenAPI/main/descriptions/2.11/api.intercom.io.yaml",
-    "description": "The intercom API reference.",
+    "description": "Intercom is a customer messaging and support platform. The Intercom API provides endpoints for managing contacts, companies, conversations, and tickets, sending and replying to messages, managing help center articles and collections, and exporting data events and activity.",
     "tags": [
         "intercom"
     ]

@@ -2,7 +2,7 @@
     "name": "Power BI Client",
     "baseUrl": "https://api.powerbi.com",
     "documentationUrl": "https://raw.githubusercontent.com/microsoft/PowerBI-CSharp/master/sdk/swaggers/swagger.json",
-    "description": "Power BI API.",
+    "description": "Power BI is Microsoft's business analytics service for data visualization and reporting. The Power BI REST API provides endpoints for managing datasets, reports, dashboards, dataflows, and workspaces, along with gateways and capacities, enabling embedding, refresh automation, and tenant administration.",
     "tags": [
         "power",
         "bi"

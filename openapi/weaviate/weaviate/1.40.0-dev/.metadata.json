@@ -2,7 +2,7 @@
     "name": "Weaviate REST API",
     "baseUrl": "",
     "documentationUrl": "https://github.com/weaviate/weaviate",
-    "description": "Introduction Weaviate is an open source, AI-native vector database that helps developers create intuitive and reliable AI-powered applications. Base Path The base path for the Weaviate server is structured as [YOUR-WEAVIATE-HOST]:[PORT]/v1 . As an example, if you wish to access the schema endpoint on a local instance, you would navigate to http://localhost:8080/v1/schema .",
+    "description": "Weaviate is an open-source vector database for semantic and hybrid search. Its REST API provides endpoints for defining collection schemas, creating and querying objects, performing batch imports and deletions, and running GraphQL queries, along with backups, replication, and user and role administration.",
     "tags": [
         "weaviate"
     ]

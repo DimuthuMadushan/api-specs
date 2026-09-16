@@ -2,7 +2,7 @@
     "name": "Botify API",
     "baseUrl": "https://api.botify.com/v1",
     "documentationUrl": "https://api.botify.com/v1/swagger.json",
-    "description": "Botify Saas API",
+    "description": "Botify is an enterprise SEO analytics platform. The Botify API provides endpoints for retrieving crawl analyses and projects, querying URL-level data and aggregations, inspecting crawl statistics and datasources, and managing keyword groups and exports.",
     "tags": [
         "botify"
     ]

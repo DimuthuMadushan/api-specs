@@ -2,7 +2,7 @@
     "name": "OpenAI API",
     "baseUrl": "https://api.openai.com/v1",
     "documentationUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
-    "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference for more details.",
+    "description": "The OpenAI API provides access to OpenAI's models for text generation, reasoning, embeddings, image generation, speech, and transcription. It covers responses and chat completions, assistants and conversations, fine-tuning, evaluations, batches, files, and vector stores, along with project and organization administration.",
     "tags": [
         "openai"
     ]

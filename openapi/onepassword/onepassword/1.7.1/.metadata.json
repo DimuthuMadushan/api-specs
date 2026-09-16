@@ -2,7 +2,7 @@
     "name": "1Password Connect",
     "baseUrl": "http://localhost:8080/v1",
     "documentationUrl": "https://raw.githubusercontent.com/1Password/connect/main/docs/openapi/spec.yaml",
-    "description": "REST API interface for 1Password Connect.",
+    "description": "1Password Connect provides self-hosted REST access to a 1Password vault for servers and applications. The API lets you list and read vaults, create, update, and delete items and their fields, retrieve file attachments, and review server activity for secrets automation.",
     "tags": [
         "1password",
         "onepassword"

@@ -2,7 +2,7 @@
     "name": "Shortcut API",
     "baseUrl": "https://api.app.shortcut.com",
     "documentationUrl": "https://developer.shortcut.com/api/rest/v3/shortcut.openapi.json",
-    "description": "Shortcut API",
+    "description": "Shortcut is a project management tool built for software teams. The Shortcut API provides endpoints for managing stories, epics, iterations, and milestones, along with workflows, projects, teams, labels, and members, enabling automation of planning and issue tracking.",
     "tags": [
         "shortcut"
     ]

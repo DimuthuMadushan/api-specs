@@ -2,7 +2,7 @@
     "name": "Spotify Web API",
     "baseUrl": "https://api.spotify.com/v1",
     "documentationUrl": "https://developer.spotify.com/_data/documentation/web-api/reference/open-api-schema.yml",
-    "description": "You can use Spotify's Web API to discover music and podcasts, manage your Spotify library, control audio playback, and much more. Browse our available Web API endpoints using the sidebar at left, or via the navigation bar on top of this page on smaller screens. In order to make successful Web API requests your app will need a valid access token. One can be obtained through OAuth 2.0 . The base URI for all Web API requests is https://api.spotify.com/v1 .",
+    "description": "Spotify is a music and podcast streaming service. The Spotify Web API provides endpoints for searching the catalog and retrieving albums, artists, tracks, shows, and episodes, managing a user's playlists, library, and followed artists, and controlling playback.",
     "tags": [
         "spotify"
     ]

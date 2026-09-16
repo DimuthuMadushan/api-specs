@@ -2,7 +2,7 @@
     "name": "Pipedrive API v1",
     "baseUrl": "https://api.pipedrive.com/v1",
     "documentationUrl": "https://developers.pipedrive.com/docs/api/v1/openapi.yaml",
-    "description": "Pipedrive API.",
+    "description": "Pipedrive is a sales CRM and pipeline management tool. The Pipedrive API provides endpoints for managing deals, persons, organizations, and leads, along with activities, products, notes, files, pipelines, and stages, enabling automation of sales processes and reporting.",
     "tags": [
         "pipedrive"
     ]

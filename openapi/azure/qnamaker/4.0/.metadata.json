@@ -2,7 +2,7 @@
     "name": "QnAMaker Client",
     "baseUrl": "{Endpoint}/qnamaker/v4.0",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMaker.json",
-    "description": "An API for QnAMaker Service",
+    "description": "Azure QnA Maker builds a question-and-answer layer over existing content such as FAQs and product manuals. The API provides endpoints for creating, training, testing, and publishing knowledge bases, managing question-answer pairs and word alterations, and administering runtime endpoint keys.",
     "tags": [
         "azure",
         "qnamaker"

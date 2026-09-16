@@ -2,7 +2,7 @@
     "name": "Listen API: Podcast Search, Directory, and Insights API",
     "baseUrl": "https://listen-api.listennotes.com/api/v2",
     "documentationUrl": "https://listen-api.listennotes.com/api/v2/openapi.yaml",
-    "description": "Simple & no-nonsense podcast search & directory API. Search all podcasts and episodes by people, places, or topics.",
+    "description": "Listen Notes is a podcast search engine and directory. The Listen API provides endpoints for full-text search across podcasts and episodes, browsing the directory by genre and region, and retrieving podcast and episode details, recommendations, curated lists, and playlists.",
     "tags": [
         "listen",
         "notes"

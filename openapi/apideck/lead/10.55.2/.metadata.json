@@ -2,7 +2,7 @@
     "name": "Lead API",
     "baseUrl": "https://unify.apideck.com",
     "documentationUrl": "https://developers.apideck.com",
-    "description": "Welcome to the Lead API. You can use this API to access all Lead API endpoints. Base URL The base URL for all API requests is https://unify.apideck.com Headers Custom headers that are expected as part of the request. Note that RFC7230 states header names are case insensitive.",
+    "description": "Apideck Lead is a unified API that normalises multiple CRM and marketing platforms behind a single interface. It provides endpoints for creating, retrieving, updating, and deleting leads across connected providers without integrating each platform separately.",
     "tags": [
         "apideck",
         "lead"
