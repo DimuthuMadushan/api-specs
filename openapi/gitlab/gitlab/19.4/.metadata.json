@@ -2,7 +2,7 @@
     "name": "GitLab REST API",
     "baseUrl": "https://gitlab.com",
     "documentationUrl": "https://raw.githubusercontent.com/gitlabhq/gitlabhq/master/doc/api/openapi/openapi_v3.yaml",
-    "description": "GitLab REST API used to interact with a GitLab installation.",
+    "description": "GitLab is a DevOps platform combining source control, CI/CD, and project planning. The GitLab REST API provides access to projects, repositories, branches, merge requests, issues, pipelines, jobs, and releases, along with users, groups, and administration, enabling automation of development workflows.",
     "tags": [
         "gitlab"
     ]

@@ -2,7 +2,7 @@
     "name": "PocketSmith",
     "baseUrl": "https://api.pocketsmith.com/v2",
     "documentationUrl": "https://raw.githubusercontent.com/pocketsmith/api/master/openapi.json",
-    "description": "The PocketSmith API",
+    "description": "PocketSmith is a personal finance and cash flow forecasting application. The PocketSmith API provides endpoints for managing users, accounts and transaction accounts, institutions, and categories, along with transactions, attachments, budgeting, and calendar events used for forecasting.",
     "tags": [
         "pocketsmith"
     ]

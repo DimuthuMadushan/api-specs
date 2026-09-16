@@ -2,7 +2,7 @@
     "name": "Trello REST API",
     "baseUrl": "https://api.trello.com/1",
     "documentationUrl": "https://developer.atlassian.com/cloud/trello/swagger.v3.json",
-    "description": "Trello API.",
+    "description": "Trello is a visual collaboration tool that organises work into boards, lists, and cards. The Trello REST API provides endpoints for managing boards, lists, cards, checklists, labels, and attachments, along with members, actions, notifications, and organizations, enabling automation of task workflows.",
     "tags": [
         "trello"
     ]

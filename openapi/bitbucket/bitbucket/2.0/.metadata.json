@@ -2,7 +2,7 @@
     "name": "Bitbucket API",
     "baseUrl": "https://api.bitbucket.org/2.0",
     "documentationUrl": "https://api.bitbucket.org/swagger.json",
-    "description": "Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework.",
+    "description": "Bitbucket is Atlassian's Git repository hosting and collaboration service. The Bitbucket API provides access to workspaces, projects, repositories, commits, branches, pull requests, and issues, along with pipelines, deployments, and snippets, enabling automation of source control and CI/CD workflows.",
     "tags": [
         "bitbucket"
     ]

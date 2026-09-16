@@ -2,7 +2,7 @@
     "name": "Azure Data Lake Storage REST API",
     "baseUrl": "https://{accountName}.{dnsSuffix}",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/data-plane/Microsoft.StorageDataLake/stable/2018-11-09/DataLakeStorage.json",
-    "description": "Azure Data Lake Storage provides storage for Hadoop and other big data workloads.",
+    "description": "The Azure Data Lake Storage API provides REST access to Azure Data Lake Storage Gen2, a hierarchical file system built on Azure Blob Storage. It supports filesystem, directory, and file operations including creating, reading, appending, flushing, and deleting data, along with account-level configuration.",
     "tags": [
         "azure",
         "datalake"

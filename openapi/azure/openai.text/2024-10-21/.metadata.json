@@ -2,7 +2,7 @@
     "name": "Azure OpenAI Service API",
     "baseUrl": "https://your-resource-name.openai.azure.com/openai",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
-    "description": "Azure OpenAI APIs for completions and search",
+    "description": "Azure OpenAI Service provides REST access to OpenAI models hosted on Azure with enterprise security and compliance. The completions endpoints generate and complete text from a prompt against a deployed model, supporting parameters for temperature, token limits, stop sequences, and streaming.",
     "tags": [
         "azure",
         "openai",

@@ -2,7 +2,7 @@
     "name": "Interzoid Convert Currency Rate API",
     "baseUrl": "https://api.interzoid.com",
     "documentationUrl": "https://www.interzoid.com/services/convertcurrency",
-    "description": "This API enables you to convert an amount of one currency into another currency using current foreign exchange rates.",
+    "description": "Interzoid provides data quality and reference data APIs. The Convert Currency Rate API converts an amount from one currency to another using current market exchange rates, returning the converted value for use in pricing, invoicing, and reporting.",
     "tags": [
         "interzoid",
         "currencyexchange"

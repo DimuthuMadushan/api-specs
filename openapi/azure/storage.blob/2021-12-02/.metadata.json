@@ -2,7 +2,7 @@
     "name": "Azure Blob Storage",
     "baseUrl": "{url}",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/data-plane/Microsoft.BlobStorage/stable/2021-12-02/blob.json",
-    "description": "Azure Storage Blob API.",
+    "description": "Azure Blob Storage is Microsoft's object storage service for unstructured data. The API supports creating and managing containers and blobs, uploading and downloading block, append, and page blobs, and working with snapshots, leases, metadata, access tiers, and blob content queries.",
     "tags": [
         "azure",
         "storage",

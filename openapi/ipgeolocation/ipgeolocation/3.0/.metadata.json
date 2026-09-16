@@ -2,7 +2,7 @@
     "name": "IPGeolocation.io",
     "baseUrl": "https://api.ipgeolocation.io",
     "documentationUrl": "https://raw.githubusercontent.com/IPGeolocation/openapi/main/openapi.yaml",
-    "description": "Combined OpenAPI specification for all IPGeolocation.io APIs. Includes IP Geolocation, IP Security, ASN Lookup, Abuse Contact, Astronomy, Timezone, and User Agent endpoints.",
+    "description": "IPGeolocation.io provides IP intelligence and location data. The API resolves an IP address to country, region, city, and coordinates, and offers time zone, astronomy, ASN lookup, abuse contact, and user agent parsing, along with security checks for proxies, VPNs, and known threats.",
     "tags": [
         "ipgeolocation"
     ]

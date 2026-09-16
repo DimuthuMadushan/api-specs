@@ -2,7 +2,7 @@
     "name": "App Store Connect API",
     "baseUrl": "https://api.appstoreconnect.apple.com",
     "documentationUrl": "https://developer.apple.com/sample-code/app-store-connect/app-store-connect-openapi-specification.zip",
-    "description": "Apple AppStore API.",
+    "description": "App Store Connect is Apple's platform for managing apps distributed on the App Store. Its API provides endpoints for managing apps, builds, and App Store versions, TestFlight testers and beta groups, in-app purchases and subscriptions, and Game Center configuration, along with sales and finance reports and provisioning profiles.",
     "tags": [
         "apple",
         "appstore"

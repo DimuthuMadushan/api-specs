@@ -2,7 +2,7 @@
     "name": "Accounting API",
     "baseUrl": "https://unify.apideck.com",
     "documentationUrl": "https://developers.apideck.com",
-    "description": "Welcome to the Accounting API. You can use this API to access all Accounting API endpoints. Base URL The base URL for all API requests is https://unify.apideck.com Headers Custom headers that are expected as part of the request. Note that RFC7230 states header names are case insensitive.",
+    "description": "Apideck Accounting is a unified API that normalises multiple accounting platforms behind a single interface. It provides endpoints for invoices, bills, and credit notes, along with customers, suppliers, ledger accounts, journal entries, payments, tax rates, and company information across connected providers.",
     "tags": [
         "apideck",
         "accounting"

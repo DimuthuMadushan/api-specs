@@ -2,7 +2,7 @@
     "name": "Microsoft OneNote API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft OneNote API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering notebooks, sections, section groups, pages and OneNote resources.",
+    "description": "Microsoft OneNote, part of Microsoft Graph, provides access to OneNote notebooks stored in OneDrive and SharePoint. It supports creating and listing notebooks, section groups, and sections, reading and updating page content and resources, and copying notebook items between locations.",
     "tags": [
         "microsoft",
         "onenote"

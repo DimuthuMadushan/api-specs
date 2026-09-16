@@ -2,7 +2,7 @@
     "name": "PagerDuty V2 Events API",
     "baseUrl": "https://events.pagerduty.com/v2",
     "documentationUrl": "https://raw.githubusercontent.com/PagerDuty/api-schema/main/reference/events-v2/openapiv3.json",
-    "description": "PagerDuty Events API V2 The Events API V2 enables you to add PagerDuty's advanced event and incident management functionality to any system that can make an HTTP API call. Description The API is designed to allow you to easily integrate a monitoring system with PagerDuty. Monitoring systems generally send out events when problems are detected and when these problems have been resolved (fixed).",
+    "description": "PagerDuty is an incident management platform for on-call response. The Events API v2 accepts trigger, acknowledge, and resolve events to drive incident alerting, along with change events for tracking deployments and other changes alongside incidents.",
     "tags": [
         "pagerduty"
     ]

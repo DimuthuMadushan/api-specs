@@ -2,7 +2,7 @@
     "name": "YNAB API Endpoints",
     "baseUrl": "https://api.ynab.com/v1",
     "documentationUrl": "https://api.ynab.com/papi/open_api_spec.yaml",
-    "description": "Our API uses a REST based design, leverages the JSON data format, and relies upon HTTPS for transport. We respond with meaningful HTTP response codes and if an error occurs, we include error details in the response body. Read the API Documentation for more information about the API, including how to obtain an access token and how to use it to make requests.",
+    "description": "You Need A Budget (YNAB) is a personal budgeting application. The YNAB API provides endpoints for retrieving budgets and budget months, accounts, categories and category groups, and payees, along with creating, updating, and importing transactions.",
     "tags": [
         "ynab"
     ]

@@ -2,7 +2,7 @@
     "name": "Interzoid Get Global Time API",
     "baseUrl": "https://api.interzoid.com",
     "documentationUrl": "https://www.interzoid.com/services/getglobaltime",
-    "description": "This API retrieves the current time for a city or geographic location around the globe.",
+    "description": "Interzoid provides data quality and reference data APIs. The Get Global Time API returns the current local time for a specified city or location worldwide, for use in scheduling, logging, and time zone aware applications.",
     "tags": [
         "interzoid",
         "globaltime"

@@ -2,7 +2,7 @@
     "name": "Interzoid Get Email Information API",
     "baseUrl": "https://virtserver.swaggerhub.com/interzoid/email_validation/1.0.0",
     "documentationUrl": "https://www.interzoid.com/services/getemailinfo",
-    "description": "This API provides validation information for email addresses to aid in deliverability. Syntax, existence of mail servers, and other tests are run to ensure delivery. Additional demographics are provided for the email address as well, including identifying generic, vulgar, education, government, or other entity type email addresses.",
+    "description": "Interzoid provides data quality and reference data APIs. The Get Email Information API analyses an email address and returns validation and quality indicators, including whether the domain is reachable and whether the address appears to be free, disposable, or high risk.",
     "tags": [
         "interzoid",
         "emailinfo"

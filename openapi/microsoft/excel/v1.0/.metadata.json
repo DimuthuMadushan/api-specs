@@ -2,7 +2,7 @@
     "name": "Microsoft Excel API",
     "baseUrl": "https://graph.microsoft.com/v1.0",
     "documentationUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
-    "description": "Microsoft Excel API. Subset of the Microsoft Graph v1.0 OpenAPI specification covering workbook, worksheet, range, table, chart and pivot-table operations on files stored in OneDrive and SharePoint.",
+    "description": "The Microsoft Excel API, part of Microsoft Graph, works with Excel workbooks stored in OneDrive and SharePoint. It provides endpoints for reading and writing worksheets, ranges, tables, charts, and pivot tables, applying formats and formulas, and running workbook functions and recalculation.",
     "tags": [
         "microsoft",
         "excel"

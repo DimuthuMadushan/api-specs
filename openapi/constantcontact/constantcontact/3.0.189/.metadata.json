@@ -2,7 +2,7 @@
     "name": "AppConnect V3",
     "baseUrl": "https://api.cc.email/v3",
     "documentationUrl": "https://api.cc.email/v3/swagger.yaml",
-    "description": "The Constant Contact, Inc. V3 public API, for building integrations with Constant Contact, the leading small-business email marketing platform.",
+    "description": "Constant Contact is an email and digital marketing platform for small businesses. Its V3 API provides endpoints for managing contacts, contact lists, tags, and custom fields, creating and scheduling email campaigns and landing pages, and retrieving campaign and contact reporting.",
     "tags": [
         "constantcontact"
     ]

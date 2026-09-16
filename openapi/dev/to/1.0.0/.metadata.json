@@ -2,7 +2,7 @@
     "name": "Forem API V1",
     "baseUrl": "https://dev.to",
     "documentationUrl": "https://raw.githubusercontent.com/forem/forem/main/swagger/v1/api_v1.json",
-    "description": "Access Forem articles, users and other resources via API. For a real-world example of Forem in action, check out DEV. All endpoints can be accessed with the 'api-key' header and a accept header, but some of them are accessible publicly without authentication. Instances that enable delegated access additionally accept an Authorization: Bearer token issued by their configured delegation service on every endpoint that accepts an api-key.",
+    "description": "Forem is the open-source platform that powers the DEV Community. The Forem API provides endpoints for publishing and managing articles, retrieving users, organizations, comments, tags, and follows, and performing administrative and analytics operations on a community instance.",
     "tags": [
         "dev",
         "to"

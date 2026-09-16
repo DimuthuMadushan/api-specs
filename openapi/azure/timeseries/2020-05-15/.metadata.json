@@ -2,7 +2,7 @@
     "name": "TimeSeriesInsightsClient",
     "baseUrl": "https://management.azure.com",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/timeseriesinsights/resource-manager/Microsoft.TimeSeriesInsights/stable/2020-05-15/timeseriesinsights.json",
-    "description": "Time Series Insights client",
+    "description": "Azure Time Series Insights is a managed analytics service for IoT-scale time series data. This management API provides endpoints for creating and configuring environments, event sources, reference data sets, and access policies within an Azure subscription.",
     "tags": [
         "azure",
         "timeseries"

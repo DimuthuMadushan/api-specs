@@ -2,7 +2,7 @@
     "name": "EventHubManagementClient",
     "baseUrl": "https://management.azure.com",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/eventhub/resource-manager/Microsoft.EventHub/stable/2017-04-01/eventhubs.json",
-    "description": "Azure Event Hubs client",
+    "description": "Azure Event Hubs is a big data streaming platform and event ingestion service. This management API provides endpoints for creating, listing, updating, and deleting event hubs within a namespace, for use in provisioning and automating streaming infrastructure.",
     "tags": [
         "azure",
         "eventhub"

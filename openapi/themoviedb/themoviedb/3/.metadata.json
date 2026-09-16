@@ -2,7 +2,7 @@
     "name": "tmdb-api",
     "baseUrl": "https://api.themoviedb.org",
     "documentationUrl": "https://developer.themoviedb.org/openapi/tmdb-api.json",
-    "description": "TheMovieDB API.",
+    "description": "The Movie Database (TMDB) is a community-maintained catalog of films and television. The TMDB API provides endpoints for searching and discovering movies, TV shows, and people, retrieving details, credits, images, videos, and reviews, and managing user accounts, lists, ratings, and watchlists.",
     "tags": [
         "themoviedb"
     ]

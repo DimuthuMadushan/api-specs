@@ -2,7 +2,7 @@
     "name": "SearchIndexClient",
     "baseUrl": "{endpoint}/indexes('{indexName}')",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/search/data-plane/Search/stable/2024-07-01/searchindex.json",
-    "description": "Client that can be used to query an index and upload, merge, or delete documents.",
+    "description": "Azure AI Search provides a managed search service with full-text, vector, and hybrid retrieval. These index endpoints operate on documents within a search index, supporting queries, autocomplete and suggestions, document lookup and counting, and uploading, merging, or deleting indexed documents.",
     "tags": [
         "azure",
         "ai",

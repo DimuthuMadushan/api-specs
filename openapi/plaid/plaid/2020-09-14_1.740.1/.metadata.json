@@ -2,7 +2,7 @@
     "name": "The Plaid API",
     "baseUrl": "https://production.plaid.com",
     "documentationUrl": "https://raw.githubusercontent.com/plaid/plaid-openapi/master/2020-09-14.yml",
-    "description": "The Plaid REST API. Please see https://plaid.com/docs/api for more details.",
+    "description": "Plaid is a financial data network that connects applications to users' bank accounts. The Plaid API provides endpoints for linking accounts and retrieving balances, transactions, identity, income, and liabilities, along with payments, transfers, and identity verification services.",
     "tags": [
         "plaid"
     ]

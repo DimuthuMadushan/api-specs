@@ -2,7 +2,7 @@
     "name": "API Reference",
     "baseUrl": "https://rest.zuora.com",
     "documentationUrl": "https://developer.zuora.com/yaml/swagger.yaml",
-    "description": "Introduction Welcome to the REST API reference for the Zuora Billing, Payments, and Central Platform! To learn about the common use cases of Zuora REST APIs, check out the REST API Tutorials. In addition to Zuora API Reference, we also provide API references for other Zuora products: Revenue API Reference Collections API Reference The Zuora REST API provides a broad set of operations and resources that: Enable Web Storefront integration from your website.",
+    "description": "Zuora is a subscription billing and revenue management platform. The Zuora API provides endpoints for managing customer accounts, subscriptions and orders, product catalogs and rate plans, invoices, credit and debit memos, payments and refunds, and accounting periods.",
     "tags": [
         "zuora"
     ]

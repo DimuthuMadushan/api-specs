@@ -2,7 +2,7 @@
     "name": "commercetools Composable Commerce API",
     "baseUrl": "https://api.us-central1.gcp.commercetools.com",
     "documentationUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
-    "description": "CommerceTools Customizebehavior API.",
+    "description": "commercetools is a headless, API-first commerce platform. This Composable Commerce specification covers customising platform behaviour through API extensions, subscriptions, and messages, letting you hook business logic into cart, order, and catalog events.",
     "tags": [
         "commercetools",
         "customizebehavior"

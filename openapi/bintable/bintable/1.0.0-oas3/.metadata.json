@@ -2,7 +2,7 @@
     "name": "BIN Lookup API",
     "baseUrl": "https://api.bintable.com/v1",
     "documentationUrl": "https://bintable.com/api-files/openapi.yaml",
-    "description": "BIN lookup API, the free api service from bintable.com to lookup card information using it's BIN. the service maintains updated database based on the comunity and other third party services to make sure all BINs in the database are accurate and up to date.",
+    "description": "BinTable provides bank identification number (BIN) lookup data. The API resolves the leading digits of a payment card to its issuing bank, card brand, type, level, and country, and reports the remaining lookup balance on the account.",
     "tags": [
         "bintable"
     ]

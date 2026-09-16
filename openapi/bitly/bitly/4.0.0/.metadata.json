@@ -2,7 +2,7 @@
     "name": "Bitly API",
     "baseUrl": "https://api-ssl.bitly.com/v4",
     "documentationUrl": "https://dev.bitly.com/v4/v4.json",
-    "description": "Bitly API.",
+    "description": "Bitly is a link management and URL shortening service. The Bitly API provides endpoints for creating, updating, and expanding short links, generating QR codes, organising links into groups and campaigns, managing custom domains, and retrieving click analytics.",
     "tags": [
         "bitly"
     ]

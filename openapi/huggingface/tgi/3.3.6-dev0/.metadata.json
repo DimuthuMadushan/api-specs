@@ -2,7 +2,7 @@
     "name": "Text Generation Inference",
     "baseUrl": "",
     "documentationUrl": "https://raw.githubusercontent.com/huggingface/text-generation-inference/main/docs/openapi.json",
-    "description": "Text Generation Webserver",
+    "description": "Text Generation Inference (TGI) is Hugging Face's toolkit for serving large language models. Its API exposes endpoints for generating text with a served model, streaming token output, OpenAI-compatible chat completions, tokenising input, and reporting model information and health.",
     "tags": [
         "huggingface",
         "tgi"

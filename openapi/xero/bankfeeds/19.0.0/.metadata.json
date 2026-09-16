@@ -2,7 +2,7 @@
     "name": "Xero Bank Feeds API",
     "baseUrl": "https://api.xero.com/bankfeeds.xro/1.0",
     "documentationUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_bankfeeds.yaml",
-    "description": "The Bank Feeds API is a closed API that is only available to financial institutions that have an established financial services partnership with Xero. If you're an existing financial services partner that wants access, contact your local Partner Manager. If you're a financial institution who wants to provide bank feeds to your business customers, contact us to become a financial services partner.",
+    "description": "The Xero Bank Feeds API lets financial institutions and aggregators deliver bank statement data directly into Xero. It supports creating and managing feed connections between bank accounts and Xero organisations, and posting statements and statement lines.",
     "tags": [
         "xero",
         "bankfeeds"

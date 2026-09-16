@@ -2,7 +2,7 @@
     "name": "barcodeapi",
     "baseUrl": "https://testapi.cloudmersive.com",
     "documentationUrl": "https://api-console.cloudmersive.com/swagger/api/spec/barcode",
-    "description": "Barcode APIs let you generate barcode images, and recognize values from images of barcodes.",
+    "description": "Cloudmersive Barcode provides barcode generation and recognition. The API creates barcode images in formats such as QR, EAN, UPC, and Code 128, scans barcodes and QR codes from uploaded images, and looks up product details from a barcode value.",
     "tags": [
         "cloudmersive",
         "barcode"

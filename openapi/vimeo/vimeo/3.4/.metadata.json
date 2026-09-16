@@ -2,7 +2,7 @@
     "name": "Vimeo API",
     "baseUrl": "https://api.vimeo.com",
     "documentationUrl": "https://raw.githubusercontent.com/vimeo/openapi/master/api.yaml",
-    "description": "Vimeo API.",
+    "description": "Vimeo is a video hosting and distribution platform. The Vimeo API provides endpoints for uploading and managing videos, editing metadata and privacy settings, organising content into albums, channels, groups, and portfolios, and retrieving analytics and on-demand catalog data.",
     "tags": [
         "vimeo"
     ]

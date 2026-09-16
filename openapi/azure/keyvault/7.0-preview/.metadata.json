@@ -2,7 +2,7 @@
     "name": "KeyVaultClient",
     "baseUrl": "{vaultBaseUrl}",
     "documentationUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/keyvault/data-plane/Microsoft.KeyVault/preview/7.0/keyvault.json",
-    "description": "The key vault client performs cryptographic key operations and vault operations against the Key Vault service.",
+    "description": "Azure Key Vault provides secure storage and management of cryptographic keys, secrets, and certificates. The API supports creating, importing, rotating, backing up, and recovering these items, performing sign, verify, encrypt, decrypt, and wrap operations with keys, and managing soft-deleted entities.",
     "tags": [
         "azure",
         "keyvault"
