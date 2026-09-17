@@ -1,0 +1,14 @@
+{
+    "name": "Mailchimp Marketing API",
+    "baseUrl": "https://{dc}.api.mailchimp.com/3.0",
+    "documentationUrl": "https://mailchimp.com/developer/marketing/api/",
+    "description": "The Mailchimp Marketing API manages audiences and email campaigns. It provides endpoints for audiences and members, tags, segments and merge fields, campaigns, templates and content, scheduling and sending, automations and customer journeys, e-commerce stores and orders, and campaign reporting.",
+    "tags": [
+        "mailchimp",
+        "email-marketing",
+        "campaigns",
+        "audiences",
+        "automation",
+        "official"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Power BI REST API",
+    "baseUrl": "https://api.powerbi.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/power-bi/",
+    "description": "The Power BI REST API administers and embeds Power BI content. It provides endpoints for workspaces, reports, dashboards, tiles and datasets, refresh schedules and refresh history, dataflows, gateways and data sources, imports and exports, capacities, embed tokens and admin-level tenant operations.",
+    "tags": [
+        "powerbi",
+        "microsoft",
+        "analytics",
+        "reports",
+        "dashboards",
+        "bi",
+        "official"
+    ]
+}

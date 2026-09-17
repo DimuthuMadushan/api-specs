@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Global Page Load Performance API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/global-page-load-performance",
+    "description": "The Interzoid Global Page Load Performance API measures how quickly a web page loads from different parts of the world. Given a URL and a geographic region it returns the measured load time, for monitoring international site performance.",
+    "tags": [
+        "interzoid",
+        "performance",
+        "monitoring",
+        "web",
+        "latency",
+        "official"
+    ]
+}

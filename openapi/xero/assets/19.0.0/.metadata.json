@@ -1,0 +1,14 @@
+{
+    "name": "Xero Assets API",
+    "baseUrl": "https://api.xero.com/assets.xro/1.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/assets/overview",
+    "description": "The Xero Assets API manages the fixed asset register. It supports creating and retrieving assets, registering and disposing of them, managing asset types and depreciation settings, and reading the current asset register configuration for an organisation.",
+    "tags": [
+        "xero",
+        "assets",
+        "fixed-assets",
+        "depreciation",
+        "accounting",
+        "official"
+    ]
+}

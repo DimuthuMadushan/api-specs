@@ -1,0 +1,14 @@
+{
+    "name": "Azure AI Search Index API",
+    "baseUrl": "https://{serviceName}.search.windows.net",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/searchservice/documents",
+    "description": "The Azure AI Search index API queries and maintains documents within a search index. It supports full text, filtered, faceted, semantic and vector search, autocomplete and suggestions, document lookup and counting, and batched upload, merge and delete of indexed documents.",
+    "tags": [
+        "azure",
+        "search",
+        "documents",
+        "vector-search",
+        "ai",
+        "official"
+    ]
+}

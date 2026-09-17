@@ -1,0 +1,14 @@
+{
+    "name": "PandaDoc API",
+    "baseUrl": "https://api.pandadoc.com/public/v1",
+    "documentationUrl": "https://developers.pandadoc.com/reference/about",
+    "description": "The PandaDoc API automates document workflows. It provides endpoints for creating documents from templates or uploaded files, filling tokens, fields and pricing tables, sending documents for signature, tracking status and recipients, managing templates, content libraries, folders, contacts and webhooks.",
+    "tags": [
+        "pandadoc",
+        "documents",
+        "e-signature",
+        "templates",
+        "contracts",
+        "official"
+    ]
+}

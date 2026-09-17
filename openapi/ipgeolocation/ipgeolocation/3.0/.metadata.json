@@ -1,0 +1,14 @@
+{
+    "name": "IPGeolocation API",
+    "baseUrl": "https://api.ipgeolocation.io",
+    "documentationUrl": "https://ipgeolocation.io/documentation.html",
+    "description": "The IPGeolocation API resolves IP addresses to location and network data. It returns country, region, city, latitude and longitude, time zone, currency, ISP and organisation, and offers related endpoints for time zone lookup, user-agent parsing and astronomy data.",
+    "tags": [
+        "ipgeolocation",
+        "geolocation",
+        "ip",
+        "timezone",
+        "network",
+        "official"
+    ]
+}

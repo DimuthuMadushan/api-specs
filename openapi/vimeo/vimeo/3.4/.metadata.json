@@ -1,0 +1,14 @@
+{
+    "name": "Vimeo API",
+    "baseUrl": "https://api.vimeo.com",
+    "documentationUrl": "https://developer.vimeo.com/api/reference",
+    "description": "The Vimeo API manages video hosting and delivery. It supports uploading, editing and deleting videos, managing privacy and embed settings, folders, albums and showcases, live events, text tracks and thumbnails, channels, groups and portfolios, comments and likes, and video analytics.",
+    "tags": [
+        "vimeo",
+        "video",
+        "streaming",
+        "media",
+        "hosting",
+        "official"
+    ]
+}

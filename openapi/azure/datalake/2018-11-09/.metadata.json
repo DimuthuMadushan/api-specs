@@ -1,0 +1,14 @@
+{
+    "name": "Azure Data Lake Storage REST API",
+    "baseUrl": "https://{accountName}.{dnsSuffix}",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/storageservices/data-lake-storage-gen2",
+    "description": "The Azure Data Lake Storage Gen2 REST API provides filesystem semantics over Azure Blob Storage. It supports creating and managing filesystems, directories and files, hierarchical path operations such as rename and delete, append and flush of file data, and management of POSIX-style access control lists.",
+    "tags": [
+        "azure",
+        "datalake",
+        "storage",
+        "filesystem",
+        "big-data",
+        "official"
+    ]
+}

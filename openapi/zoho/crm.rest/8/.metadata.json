@@ -1,0 +1,15 @@
+{
+    "name": "Zoho CRM REST API",
+    "baseUrl": "https://www.zohoapis.com/crm/v8",
+    "documentationUrl": "https://www.zoho.com/crm/developer/docs/api/v8/",
+    "description": "The Zoho CRM REST API manages customer relationship data. It provides record operations for leads, contacts, accounts, deals and custom modules, including create, read, update, upsert, delete, search and mass update, along with related records, attachments and bulk actions.",
+    "tags": [
+        "zoho",
+        "crm",
+        "sales",
+        "leads",
+        "contacts",
+        "deals",
+        "official"
+    ]
+}

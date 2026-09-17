@@ -1,0 +1,14 @@
+{
+    "name": "Listen Notes API",
+    "baseUrl": "https://listen-api.listennotes.com/api/v2",
+    "documentationUrl": "https://www.listennotes.com/api/docs/",
+    "description": "The Listen Notes API searches and retrieves podcast data. It supports full text search over episodes, podcasts and curated lists, fetching podcast and episode metadata, best-of and trending charts by genre and region, recommendations, playlists and podcast submission.",
+    "tags": [
+        "listennotes",
+        "podcasts",
+        "search",
+        "media",
+        "audio",
+        "official"
+    ]
+}

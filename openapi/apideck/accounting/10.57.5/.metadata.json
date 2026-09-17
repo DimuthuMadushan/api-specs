@@ -1,0 +1,14 @@
+{
+    "name": "Apideck Accounting API",
+    "baseUrl": "https://unify.apideck.com",
+    "documentationUrl": "https://developers.apideck.com/apis/accounting/reference",
+    "description": "The Apideck Accounting API is a unified interface over multiple accounting platforms such as QuickBooks, Xero, NetSuite and Sage. It provides a single normalised model for invoices, bills, payments, journal entries, ledger accounts, customers and suppliers, so one integration can serve many downstream accounting systems.",
+    "tags": [
+        "apideck",
+        "accounting",
+        "unified-api",
+        "finance",
+        "invoices",
+        "official"
+    ]
+}

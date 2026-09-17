@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Convert Currency Rate API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/convert-currency-rate",
+    "description": "The Interzoid Convert Currency Rate API converts a monetary amount between two currencies. It takes source and destination currency codes with an amount and returns the converted value at the current live rate, for e-commerce pricing and multi-currency reporting.",
+    "tags": [
+        "interzoid",
+        "currency",
+        "conversion",
+        "finance",
+        "data",
+        "official"
+    ]
+}

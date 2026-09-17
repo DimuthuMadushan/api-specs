@@ -1,0 +1,14 @@
+{
+    "name": "PayPal Orders API",
+    "baseUrl": "https://api-m.paypal.com",
+    "documentationUrl": "https://developer.paypal.com/docs/api/orders/v2/",
+    "description": "The PayPal Orders API creates and manages payment orders in the PayPal checkout flow. It supports creating an order with purchase units and amounts, updating it before approval, authorizing or capturing payment, and retrieving order status and payer details.",
+    "tags": [
+        "paypal",
+        "payments",
+        "orders",
+        "checkout",
+        "finance",
+        "official"
+    ]
+}

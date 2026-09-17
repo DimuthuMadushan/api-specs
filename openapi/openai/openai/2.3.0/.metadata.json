@@ -1,0 +1,17 @@
+{
+    "name": "OpenAI API",
+    "baseUrl": "https://api.openai.com/v1",
+    "documentationUrl": "https://platform.openai.com/docs/api-reference",
+    "description": "The OpenAI REST API provides access to OpenAI's models. It covers chat completions and the responses API, embeddings, image generation and editing, audio transcription, translation and speech, moderation, assistants, threads and runs, files and vector stores, fine-tuning, batches and usage reporting.",
+    "tags": [
+        "openai",
+        "ai",
+        "llm",
+        "chat",
+        "embeddings",
+        "images",
+        "audio",
+        "moderation",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Get Email Information API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/email-validation",
+    "description": "The Interzoid Get Email Information API validates and profiles an email address. It checks syntax and mail server reachability and reports whether the address belongs to a free, disposable or role-based provider, for list hygiene and fraud prevention.",
+    "tags": [
+        "interzoid",
+        "email",
+        "validation",
+        "data-quality",
+        "fraud",
+        "official"
+    ]
+}

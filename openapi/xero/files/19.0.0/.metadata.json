@@ -1,0 +1,14 @@
+{
+    "name": "Xero Files API",
+    "baseUrl": "https://api.xero.com/files.xro/1.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/files/overview",
+    "description": "The Xero Files API manages the file library of a Xero organisation. It supports uploading, downloading, renaming and deleting files, organising them into folders, and associating files with accounting objects such as invoices, bills and contacts.",
+    "tags": [
+        "xero",
+        "files",
+        "documents",
+        "attachments",
+        "storage",
+        "official"
+    ]
+}

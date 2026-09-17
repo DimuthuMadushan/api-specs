@@ -1,0 +1,14 @@
+{
+    "name": "LaunchDarkly REST API",
+    "baseUrl": "https://app.launchdarkly.com/api/v2",
+    "documentationUrl": "https://launchdarkly.com/docs/api",
+    "description": "The LaunchDarkly REST API manages feature flags and experimentation. It provides endpoints for flags and their targeting rules, environments and projects, segments, experiments and metrics, approval workflows, audit log entries, members, teams and access tokens.",
+    "tags": [
+        "launchdarkly",
+        "feature-flags",
+        "experimentation",
+        "devops",
+        "release-management",
+        "official"
+    ]
+}

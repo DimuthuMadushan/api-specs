@@ -1,0 +1,14 @@
+{
+    "name": "Azure IoT Central Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/iotcentral/",
+    "description": "The Azure IoT Central management API manages IoT Central application resources through Azure Resource Manager. It provides endpoints for creating, updating, listing and deleting applications, checking subdomain and name availability, managing private endpoint connections and listing available templates and SKUs.",
+    "tags": [
+        "azure",
+        "iot-central",
+        "iot",
+        "management",
+        "cloud",
+        "official"
+    ]
+}

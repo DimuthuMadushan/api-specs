@@ -1,0 +1,15 @@
+{
+    "name": "GitLab REST API",
+    "baseUrl": "https://gitlab.com/api/v4",
+    "documentationUrl": "https://docs.gitlab.com/ee/api/rest/",
+    "description": "The GitLab REST API manages projects hosted on GitLab. It provides endpoints for projects and groups, repositories, branches, commits and tags, merge requests, issues and epics, CI/CD pipelines, jobs and runners, releases, packages and registries, users, members and access tokens.",
+    "tags": [
+        "gitlab",
+        "git",
+        "version-control",
+        "merge-requests",
+        "ci-cd",
+        "devops",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Xero Projects API",
+    "baseUrl": "https://api.xero.com/projects.xro/2.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/projects/overview",
+    "description": "The Xero Projects API manages job costing and time tracking. It provides endpoints for projects and their budgets and statuses, tasks and task rates, time entries, and project users, so billable work can be tracked and invoiced within Xero.",
+    "tags": [
+        "xero",
+        "projects",
+        "time-tracking",
+        "job-costing",
+        "billing",
+        "official"
+    ]
+}

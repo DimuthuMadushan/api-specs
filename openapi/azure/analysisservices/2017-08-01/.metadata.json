@@ -1,0 +1,14 @@
+{
+    "name": "Azure Analysis Services Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/analysisservices/",
+    "description": "The Azure Analysis Services management API manages Analysis Services servers through Azure Resource Manager. It supports creating, updating and deleting servers, suspending and resuming, scaling, managing firewall rules and gateway associations, and listing available SKUs and operation status.",
+    "tags": [
+        "azure",
+        "analysis-services",
+        "management",
+        "analytics",
+        "bi",
+        "official"
+    ]
+}

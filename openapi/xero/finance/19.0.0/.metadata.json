@@ -1,0 +1,14 @@
+{
+    "name": "Xero Finance API",
+    "baseUrl": "https://api.xero.com/finance.xro/1.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/finance/overview",
+    "description": "The Xero Finance API provides derived financial insights for lending and analysis. It exposes cash validation and bank statement accounting summaries, cash flow statements, profit and loss and balance sheet data, and user activity reports for assessing the financial health of a business.",
+    "tags": [
+        "xero",
+        "finance",
+        "lending",
+        "cash-flow",
+        "reporting",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Azure Event Hubs Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/eventhub/",
+    "description": "The Azure Event Hubs management API manages Event Hubs resources through Azure Resource Manager. It provides endpoints for namespaces, event hubs, consumer groups, authorization rules and connection strings, disaster recovery configurations and network rule sets for large-scale event ingestion pipelines.",
+    "tags": [
+        "azure",
+        "eventhub",
+        "messaging",
+        "streaming",
+        "management",
+        "official"
+    ]
+}

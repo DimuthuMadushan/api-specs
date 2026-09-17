@@ -1,0 +1,14 @@
+{
+    "name": "Xero Accounting API",
+    "baseUrl": "https://api.xero.com/api.xro/2.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/accounting/overview",
+    "description": "The Xero Accounting API provides access to the core accounting features of Xero. It manages invoices, bills and credit notes, purchase orders and quotes, contacts, bank transactions and transfers, payments and prepayments, accounts, tax rates, tracking categories, manual journals and financial reports.",
+    "tags": [
+        "xero",
+        "accounting",
+        "invoices",
+        "bookkeeping",
+        "finance",
+        "official"
+    ]
+}

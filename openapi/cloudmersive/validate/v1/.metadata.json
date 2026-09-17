@@ -1,0 +1,14 @@
+{
+    "name": "Cloudmersive Validate API",
+    "baseUrl": "https://api.cloudmersive.com",
+    "documentationUrl": "https://api.cloudmersive.com/docs/validate.asp",
+    "description": "The Cloudmersive Validate API validates and enriches common data types. It covers email address syntax, server and full mailbox validation, phone number parsing and validation, postal address verification and normalisation, IP address lookup and threat checks, domain and URL reputation, and user-agent parsing.",
+    "tags": [
+        "cloudmersive",
+        "validation",
+        "email",
+        "phone",
+        "address",
+        "official"
+    ]
+}

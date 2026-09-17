@@ -1,0 +1,14 @@
+{
+    "name": "1Password Connect API",
+    "baseUrl": "http://localhost:8080/v1",
+    "documentationUrl": "https://developer.1password.com/docs/connect/connect-api-reference/",
+    "description": "The 1Password Connect API reads and writes secrets held in 1Password vaults through a self-hosted Connect server. It provides endpoints for listing vaults, retrieving, creating, updating and deleting items and their fields, downloading file attachments and querying server health and activity.",
+    "tags": [
+        "1password",
+        "secrets",
+        "vault",
+        "security",
+        "credentials",
+        "official"
+    ]
+}

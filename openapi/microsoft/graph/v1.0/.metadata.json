@@ -1,0 +1,18 @@
+{
+    "name": "Microsoft Graph API",
+    "baseUrl": "https://graph.microsoft.com/v1.0",
+    "documentationUrl": "https://learn.microsoft.com/en-us/graph/api/overview",
+    "description": "Microsoft Graph is the unified endpoint for Microsoft 365 data and services. This v1.0 specification covers Entra ID users, groups and applications, Outlook mail and calendar, Teams chats, channels and messages, OneDrive and SharePoint files, Excel workbooks, OneNote notebooks, Planner, To Do and device management.",
+    "tags": [
+        "microsoft",
+        "graph",
+        "microsoft365",
+        "outlook",
+        "teams",
+        "onedrive",
+        "excel",
+        "onenote",
+        "entra-id",
+        "official"
+    ]
+}

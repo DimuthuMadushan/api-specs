@@ -1,0 +1,14 @@
+{
+    "name": "Xero Bank Feeds API",
+    "baseUrl": "https://api.xero.com/bankfeeds.xro/1.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/bankfeeds/overview",
+    "description": "The Xero Bank Feeds API delivers bank transaction data directly into Xero. It supports registering and managing feed connections between a financial institution's accounts and Xero bank accounts, and submitting statements with opening and closing balances and statement lines.",
+    "tags": [
+        "xero",
+        "bank-feeds",
+        "banking",
+        "transactions",
+        "finance",
+        "official"
+    ]
+}

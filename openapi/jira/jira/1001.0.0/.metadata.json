@@ -1,0 +1,14 @@
+{
+    "name": "Jira Cloud Platform REST API",
+    "baseUrl": "https://your-domain.atlassian.net",
+    "documentationUrl": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/",
+    "description": "The Jira Cloud platform REST API manages issues and project configuration in Jira. It provides endpoints for issues, comments, worklogs and attachments, JQL search, projects, components and versions, boards and sprints, workflows and transitions, fields and screens, users, groups and permissions.",
+    "tags": [
+        "jira",
+        "atlassian",
+        "issue-tracking",
+        "project-management",
+        "agile",
+        "official"
+    ]
+}

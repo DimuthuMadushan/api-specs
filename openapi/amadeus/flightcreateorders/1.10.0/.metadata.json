@@ -1,0 +1,14 @@
+{
+    "name": "Amadeus Flight Create Orders API",
+    "baseUrl": "https://api.amadeus.com",
+    "documentationUrl": "https://developers.amadeus.com/self-service/category/flights/api-doc/flight-create-orders",
+    "description": "The Amadeus Flight Create Orders API books a confirmed flight offer and creates a flight order. It accepts traveller details, contact information and payment data, and returns the order with its record locator, ticketing details and associated passenger name record.",
+    "tags": [
+        "amadeus",
+        "travel",
+        "flights",
+        "orders",
+        "booking",
+        "official"
+    ]
+}

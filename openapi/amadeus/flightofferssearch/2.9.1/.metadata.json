@@ -1,0 +1,14 @@
+{
+    "name": "Amadeus Flight Offers Search API",
+    "baseUrl": "https://api.amadeus.com",
+    "documentationUrl": "https://developers.amadeus.com/self-service/category/flights/api-doc/flight-offers-search",
+    "description": "The Amadeus Flight Offers Search API searches for flight options across more than 400 airlines. It returns bookable flight offers with itineraries, fare details, baggage allowances and total prices for a given origin, destination and travel date, and supports both simple and multi-city searches.",
+    "tags": [
+        "amadeus",
+        "travel",
+        "flights",
+        "search",
+        "booking",
+        "official"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Hugging Face Text Generation Inference API",
+    "baseUrl": "http://localhost:3000",
+    "documentationUrl": "https://huggingface.co/docs/text-generation-inference/",
+    "description": "The Text Generation Inference API serves large language models through Hugging Face's high-performance inference server. It provides endpoints for text generation with streaming, an OpenAI-compatible chat completions interface, tokenization, embeddings and model metadata and health checks.",
+    "tags": [
+        "huggingface",
+        "tgi",
+        "llm",
+        "inference",
+        "ai",
+        "text-generation",
+        "official"
+    ]
+}

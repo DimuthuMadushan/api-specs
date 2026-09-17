@@ -1,0 +1,14 @@
+{
+    "name": "Box Platform API",
+    "baseUrl": "https://api.box.com/2.0",
+    "documentationUrl": "https://developer.box.com/reference/",
+    "description": "The Box Platform API manages content stored in Box. It provides endpoints for uploading, downloading, copying and versioning files, organising folders, sharing via shared links and collaborations, metadata templates and instances, search, tasks and comments, retention policies, legal holds, webhooks, users and groups.",
+    "tags": [
+        "box",
+        "storage",
+        "files",
+        "content-management",
+        "collaboration",
+        "official"
+    ]
+}

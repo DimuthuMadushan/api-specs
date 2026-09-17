@@ -1,0 +1,15 @@
+{
+    "name": "Square API",
+    "baseUrl": "https://connect.squareup.com",
+    "documentationUrl": "https://developer.squareup.com/reference/square",
+    "description": "The Square API powers Square's commerce platform. It covers payments, refunds and disputes, orders and checkout, the catalogue and inventory, customers and customer groups, invoices and subscriptions, loyalty and gift cards, bookings, team members, labor and locations.",
+    "tags": [
+        "square",
+        "payments",
+        "commerce",
+        "orders",
+        "catalog",
+        "pos",
+        "official"
+    ]
+}

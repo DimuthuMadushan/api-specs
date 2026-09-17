@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid State Data Standardization API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/state-data-standardization",
+    "description": "The Interzoid State Data Standardization API normalises US state names and abbreviations. Given a state in any common form it returns the standard two-letter code or full name, for cleansing address data before matching or loading.",
+    "tags": [
+        "interzoid",
+        "address",
+        "standardization",
+        "data-quality",
+        "usa",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "commercetools Change History API",
+    "baseUrl": "https://history.europe-west1.gcp.commercetools.com",
+    "documentationUrl": "https://docs.commercetools.com/history/",
+    "description": "The commercetools Change History API returns an audit trail of modifications made to resources on the commercetools platform. It records what changed, when and by which user or API client, and supports filtering by resource type, resource id, change type and time range for compliance and troubleshooting.",
+    "tags": [
+        "commercetools",
+        "ecommerce",
+        "audit-log",
+        "change-history",
+        "compliance",
+        "official"
+    ]
+}

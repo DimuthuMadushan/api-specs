@@ -1,0 +1,14 @@
+{
+    "name": "Amadeus Flight Offers Price API",
+    "baseUrl": "https://api.amadeus.com",
+    "documentationUrl": "https://developers.amadeus.com/self-service/category/flights/api-doc/flight-offers-price",
+    "description": "The Amadeus Flight Offers Price API confirms the final price and availability of a flight offer returned by the Flight Offers Search API. It returns the confirmed fare, taxes, fees and fare rules, and can include additional services such as extra baggage before a booking is created.",
+    "tags": [
+        "amadeus",
+        "travel",
+        "flights",
+        "pricing",
+        "booking",
+        "official"
+    ]
+}

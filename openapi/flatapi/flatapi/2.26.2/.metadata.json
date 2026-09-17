@@ -1,0 +1,14 @@
+{
+    "name": "Flat API",
+    "baseUrl": "https://api.flat.io/v2",
+    "documentationUrl": "https://flat.io/developers/api/reference/",
+    "description": "The Flat API manages music scores and collaboration on the Flat platform. It supports creating, importing and exporting scores in MusicXML, MIDI, PDF and MP3, managing score revisions, collaborators and comments, organising collections, and classroom features such as assignments and submissions.",
+    "tags": [
+        "flat",
+        "music",
+        "scores",
+        "musicxml",
+        "education",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Jira Service Management REST API",
+    "baseUrl": "https://your-domain.atlassian.net",
+    "documentationUrl": "https://developer.atlassian.com/cloud/jira/service-desk/rest/",
+    "description": "The Jira Service Management REST API manages service desk operations. It provides endpoints for customer requests and request types, service desks and queues, approvals, participants and SLA information, organisations and customers, and knowledge base article search.",
+    "tags": [
+        "jira",
+        "atlassian",
+        "service-desk",
+        "itsm",
+        "ticketing",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "PayPal Invoicing API",
+    "baseUrl": "https://api-m.paypal.com",
+    "documentationUrl": "https://developer.paypal.com/docs/api/invoicing/v2/",
+    "description": "The PayPal Invoicing API creates and manages invoices. It supports drafting invoices with line items, taxes, discounts and terms, sending and scheduling them, recording external payments and refunds, generating the next invoice number, managing templates and searching invoices.",
+    "tags": [
+        "paypal",
+        "invoicing",
+        "billing",
+        "payments",
+        "finance",
+        "official"
+    ]
+}

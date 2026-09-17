@@ -1,0 +1,14 @@
+{
+    "name": "Elastic Cloud API",
+    "baseUrl": "https://api.elastic-cloud.com/api/v1",
+    "documentationUrl": "https://www.elastic.co/docs/api/doc/cloud/",
+    "description": "The Elastic Cloud API manages hosted Elasticsearch deployments. It provides endpoints for creating, resizing, upgrading and deleting deployments, managing Elasticsearch, Kibana, APM and Enterprise Search resources, traffic filters, extensions, snapshots, billing costs and organisation membership.",
+    "tags": [
+        "elastic",
+        "elasticsearch",
+        "cloud",
+        "deployments",
+        "search",
+        "official"
+    ]
+}

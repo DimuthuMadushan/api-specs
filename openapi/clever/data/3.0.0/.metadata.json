@@ -1,0 +1,14 @@
+{
+    "name": "Clever Data API",
+    "baseUrl": "https://api.clever.com/v3.0",
+    "documentationUrl": "https://dev.clever.com/docs/api-overview",
+    "description": "The Clever Data API provides read access to rostering data for schools and districts. It exposes students, teachers, staff, sections, courses, terms, schools and districts along with their relationships, so education applications can synchronise class rosters and user records.",
+    "tags": [
+        "clever",
+        "education",
+        "rostering",
+        "students",
+        "schools",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Current Weather by Zip Code API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/current-weather-by-zip-code",
+    "description": "The Interzoid Current Weather by Zip Code API returns present weather conditions for a US postal code. It responds with temperature, conditions, wind and related observations for location-aware applications and operational reporting.",
+    "tags": [
+        "interzoid",
+        "weather",
+        "geolocation",
+        "zip-code",
+        "data",
+        "official"
+    ]
+}

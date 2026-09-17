@@ -1,0 +1,15 @@
+{
+    "name": "commercetools Composable Commerce API",
+    "baseUrl": "https://api.europe-west1.gcp.commercetools.com",
+    "documentationUrl": "https://docs.commercetools.com/api/",
+    "description": "The commercetools Composable Commerce API is the core HTTP API of the commercetools platform. It covers the product catalogue, categories and product types, carts, orders and payments, customers and customer groups, prices, discounts and promotions, inventory, shipping methods, custom objects and custom field definitions.",
+    "tags": [
+        "commercetools",
+        "ecommerce",
+        "catalog",
+        "orders",
+        "carts",
+        "pricing",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Plaid API",
+    "baseUrl": "https://production.plaid.com",
+    "documentationUrl": "https://plaid.com/docs/api/",
+    "description": "The Plaid API connects applications to users' financial accounts. It covers Link token creation and item management, account and balance retrieval, transactions, authentication and routing numbers, identity, income and assets, investments, liabilities, payment initiation and transfers.",
+    "tags": [
+        "plaid",
+        "fintech",
+        "banking",
+        "transactions",
+        "open-banking",
+        "official"
+    ]
+}

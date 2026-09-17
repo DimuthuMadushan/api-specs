@@ -1,0 +1,14 @@
+{
+    "name": "Azure SQL Database Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/sql/",
+    "description": "The Azure SQL Database management API manages SQL databases through Azure Resource Manager. It provides endpoints for creating, updating, listing and deleting databases, changing service tiers and compute size, pausing and resuming, importing and exporting, failover, and inspecting database usage and metrics.",
+    "tags": [
+        "azure",
+        "sql",
+        "database",
+        "management",
+        "cloud",
+        "official"
+    ]
+}

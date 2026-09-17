@@ -1,0 +1,14 @@
+{
+    "name": "GoDaddy Domains API",
+    "baseUrl": "https://api.godaddy.com/v3/domains",
+    "documentationUrl": "https://developer.godaddy.com/doc/endpoint/domains",
+    "description": "The GoDaddy Domains API manages the domain lifecycle. It supports checking domain availability and suggestions, purchasing, renewing and transferring domains, managing DNS records, contacts, name servers, privacy and auto-renew settings, and retrieving agreements required for a purchase.",
+    "tags": [
+        "godaddy",
+        "domains",
+        "dns",
+        "registrar",
+        "hosting",
+        "official"
+    ]
+}

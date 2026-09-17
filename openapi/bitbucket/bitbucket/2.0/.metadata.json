@@ -1,0 +1,14 @@
+{
+    "name": "Bitbucket Cloud API",
+    "baseUrl": "https://api.bitbucket.org/2.0",
+    "documentationUrl": "https://developer.atlassian.com/cloud/bitbucket/rest/",
+    "description": "The Bitbucket Cloud REST API manages Git repositories hosted on Bitbucket. It provides endpoints for repositories, branches, commits and tags, pull requests and reviews, issues, pipelines, webhooks, deploy keys, workspaces, projects and user and permission management.",
+    "tags": [
+        "bitbucket",
+        "git",
+        "version-control",
+        "pull-requests",
+        "ci-cd",
+        "official"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Trello REST API",
+    "baseUrl": "https://api.trello.com/1",
+    "documentationUrl": "https://developer.atlassian.com/cloud/trello/rest/",
+    "description": "The Trello REST API manages boards and cards. It provides endpoints for boards, lists and cards, checklists and check items, labels and stickers, attachments and comments, members and organisations, custom fields, power-ups, actions, notifications, webhooks and search.",
+    "tags": [
+        "trello",
+        "atlassian",
+        "project-management",
+        "kanban",
+        "boards",
+        "tasks",
+        "official"
+    ]
+}

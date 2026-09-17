@@ -1,0 +1,14 @@
+{
+    "name": "WebScraping.AI API",
+    "baseUrl": "https://api.webscraping.ai",
+    "documentationUrl": "https://webscraping.ai/docs",
+    "description": "The WebScraping.AI API retrieves web page content through managed proxies with JavaScript rendering. It returns raw HTML, visible text or selected elements, supports proxy country and device selection, and offers AI-assisted question answering and structured field extraction from a page.",
+    "tags": [
+        "webscraping",
+        "scraping",
+        "proxy",
+        "html",
+        "data-extraction",
+        "official"
+    ]
+}

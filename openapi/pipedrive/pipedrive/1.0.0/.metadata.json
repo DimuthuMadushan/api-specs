@@ -1,0 +1,14 @@
+{
+    "name": "Pipedrive API",
+    "baseUrl": "https://api.pipedrive.com/v1",
+    "documentationUrl": "https://developers.pipedrive.com/docs/api/v1",
+    "description": "The Pipedrive API manages sales CRM data. It provides endpoints for deals, leads and pipelines, persons and organisations, activities and notes, products and prices, files, filters and custom fields, mail threads, webhooks, users and goals.",
+    "tags": [
+        "pipedrive",
+        "crm",
+        "sales",
+        "deals",
+        "pipeline",
+        "official"
+    ]
+}

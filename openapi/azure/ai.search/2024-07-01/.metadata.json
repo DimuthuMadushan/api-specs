@@ -1,0 +1,14 @@
+{
+    "name": "Azure AI Search Service API",
+    "baseUrl": "https://{serviceName}.search.windows.net",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/searchservice/",
+    "description": "The Azure AI Search service API manages search service objects. It provides endpoints for creating and updating indexes, indexers, data sources, skillsets and synonym maps, along with analyzing text and retrieving service statistics for building full text and vector search over custom content.",
+    "tags": [
+        "azure",
+        "search",
+        "ai",
+        "indexing",
+        "cognitive-search",
+        "official"
+    ]
+}

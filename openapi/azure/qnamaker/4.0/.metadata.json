@@ -1,0 +1,14 @@
+{
+    "name": "Azure QnA Maker API",
+    "baseUrl": "https://{endpoint}/qnamaker/v4.0",
+    "documentationUrl": "https://learn.microsoft.com/en-us/azure/ai-services/qnamaker/",
+    "description": "The Azure QnA Maker API builds and queries question-and-answer knowledge bases over existing content. It supports creating and updating knowledge bases, importing source documents and FAQ URLs, training and publishing, managing alterations and endpoint keys, and generating answers to user questions.",
+    "tags": [
+        "azure",
+        "qnamaker",
+        "ai",
+        "knowledge-base",
+        "cognitive-services",
+        "official"
+    ]
+}

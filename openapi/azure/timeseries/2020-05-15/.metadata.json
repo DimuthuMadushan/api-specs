@@ -1,0 +1,14 @@
+{
+    "name": "Azure Time Series Insights Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/time-series-insights/",
+    "description": "The Azure Time Series Insights management API manages Time Series Insights environments through Azure Resource Manager. It provides endpoints for environments, event sources from IoT Hub and Event Hubs, reference data sets and access policies used for storing and exploring time series telemetry.",
+    "tags": [
+        "azure",
+        "time-series",
+        "iot",
+        "management",
+        "analytics",
+        "official"
+    ]
+}

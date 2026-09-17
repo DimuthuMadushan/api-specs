@@ -1,0 +1,15 @@
+{
+    "name": "Azure OpenAI Service API",
+    "baseUrl": "https://{endpoint}/openai",
+    "documentationUrl": "https://learn.microsoft.com/en-us/azure/ai-services/openai/reference",
+    "description": "The Azure OpenAI Service API exposes OpenAI models hosted on Azure. It provides inference endpoints for chat completions, completions, embeddings, image generation, audio transcription and translation, along with content filtering and Azure-specific deployment routing and authentication.",
+    "tags": [
+        "azure",
+        "openai",
+        "ai",
+        "llm",
+        "embeddings",
+        "inference",
+        "official"
+    ]
+}

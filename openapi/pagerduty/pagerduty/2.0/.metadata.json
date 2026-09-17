@@ -1,0 +1,15 @@
+{
+    "name": "PagerDuty Events API",
+    "baseUrl": "https://events.pagerduty.com/v2",
+    "documentationUrl": "https://developer.pagerduty.com/docs/events-api-v2/overview/",
+    "description": "The PagerDuty Events API v2 sends machine-generated events into PagerDuty incident workflows. It accepts trigger, acknowledge and resolve events with severity, source and custom details, supports deduplication keys for grouping, and provides change events for tracking deployments.",
+    "tags": [
+        "pagerduty",
+        "incident-management",
+        "alerting",
+        "events",
+        "monitoring",
+        "devops",
+        "official"
+    ]
+}

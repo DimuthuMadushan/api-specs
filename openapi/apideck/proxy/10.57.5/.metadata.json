@@ -1,0 +1,13 @@
+{
+    "name": "Apideck Proxy API",
+    "baseUrl": "https://unify.apideck.com",
+    "documentationUrl": "https://developers.apideck.com/apis/proxy/reference",
+    "description": "The Apideck Proxy API forwards arbitrary requests to a downstream connector's native API while reusing Apideck's managed authentication and connection handling. It is used to reach provider-specific endpoints that the unified APIs do not model, without managing OAuth credentials for each provider.",
+    "tags": [
+        "apideck",
+        "proxy",
+        "unified-api",
+        "integration",
+        "official"
+    ]
+}

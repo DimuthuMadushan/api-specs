@@ -1,0 +1,14 @@
+{
+    "name": "Sakari API",
+    "baseUrl": "https://api.sakari.io/v1",
+    "documentationUrl": "https://developer.sakari.io/",
+    "description": "The Sakari API sends and manages business SMS. It provides endpoints for sending individual and bulk messages, managing contacts and contact groups, templates and campaigns, conversations and inbound message handling, phone numbers and webhooks.",
+    "tags": [
+        "sakari",
+        "sms",
+        "messaging",
+        "communication",
+        "campaigns",
+        "official"
+    ]
+}

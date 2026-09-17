@@ -1,0 +1,14 @@
+{
+    "name": "Recurly API",
+    "baseUrl": "https://v3.recurly.com",
+    "documentationUrl": "https://recurly.com/developers/api/v2021-02-25/",
+    "description": "The Recurly API manages subscription billing. It covers accounts and billing information, plans and add-ons, subscriptions with upgrades, downgrades and pauses, invoices, line items, credits and refunds, coupons and promotions, usage-based charges, transactions and dunning.",
+    "tags": [
+        "recurly",
+        "subscriptions",
+        "billing",
+        "invoicing",
+        "payments",
+        "official"
+    ]
+}

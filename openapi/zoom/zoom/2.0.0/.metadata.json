@@ -1,0 +1,15 @@
+{
+    "name": "Zoom API",
+    "baseUrl": "https://api.zoom.us/v2",
+    "documentationUrl": "https://developers.zoom.us/docs/api/",
+    "description": "The Zoom API manages meetings, webinars and account resources. It covers scheduling, updating and deleting meetings and webinars, registrants and panelists, cloud recordings and transcripts, users, groups and roles, rooms and devices, phone and contact centre resources, and reporting and dashboard metrics.",
+    "tags": [
+        "zoom",
+        "meetings",
+        "webinars",
+        "video-conferencing",
+        "recordings",
+        "collaboration",
+        "official"
+    ]
+}

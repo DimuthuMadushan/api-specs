@@ -1,0 +1,14 @@
+{
+    "name": "Apple App Store Connect API",
+    "baseUrl": "https://api.appstoreconnect.apple.com",
+    "documentationUrl": "https://developer.apple.com/documentation/appstoreconnectapi",
+    "description": "The App Store Connect API automates the tasks available in the App Store Connect web interface. It provides endpoints for managing apps, app versions and metadata, TestFlight builds and testers, in-app purchases and subscriptions, provisioning profiles and certificates, sales and finance reports, customer reviews and user access.",
+    "tags": [
+        "apple",
+        "appstore",
+        "app-store-connect",
+        "testflight",
+        "mobile",
+        "official"
+    ]
+}

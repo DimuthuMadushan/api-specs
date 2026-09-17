@@ -1,0 +1,14 @@
+{
+    "name": "Apideck Lead API",
+    "baseUrl": "https://unify.apideck.com",
+    "documentationUrl": "https://developers.apideck.com/apis/lead/reference",
+    "description": "The Apideck Lead API is a unified interface over lead capture and marketing platforms. It provides a single normalised model for creating, retrieving, updating and deleting leads across multiple connected providers, making it useful for consolidating lead flow from several marketing tools.",
+    "tags": [
+        "apideck",
+        "lead",
+        "unified-api",
+        "marketing",
+        "crm",
+        "official"
+    ]
+}

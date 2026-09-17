@@ -1,0 +1,14 @@
+{
+    "name": "Karbon API",
+    "baseUrl": "https://api.karbonhq.com/v3",
+    "documentationUrl": "https://karbonhq.github.io/karbon-api-reference/",
+    "description": "The Karbon API provides access to the Karbon practice management platform for accounting firms. It covers work items and work item templates, client and contact organisations, tasks and checklists, notes and timelines, time entries, users and teams.",
+    "tags": [
+        "karbon",
+        "practice-management",
+        "accounting",
+        "workflow",
+        "tasks",
+        "official"
+    ]
+}

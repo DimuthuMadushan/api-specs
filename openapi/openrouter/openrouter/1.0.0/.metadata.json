@@ -1,0 +1,15 @@
+{
+    "name": "OpenRouter API",
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "documentationUrl": "https://openrouter.ai/docs/api-reference/overview",
+    "description": "The OpenRouter API routes requests across many language model providers behind one OpenAI-compatible interface. It supports chat completions and completions with streaming and tool calling, model listing with pricing and context limits, provider preferences and credit and generation usage lookup.",
+    "tags": [
+        "openrouter",
+        "ai",
+        "llm",
+        "chat",
+        "inference",
+        "routing",
+        "official"
+    ]
+}

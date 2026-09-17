@@ -1,0 +1,14 @@
+{
+    "name": "Pinecone Data Plane API",
+    "baseUrl": "https://{index_host}",
+    "documentationUrl": "https://docs.pinecone.io/reference/api/introduction",
+    "description": "The Pinecone data plane API reads and writes vectors in a Pinecone index. It supports upserting, fetching, updating and deleting vectors with metadata, similarity queries with filtering and namespaces, sparse-dense hybrid search, and listing vector ids and index statistics.",
+    "tags": [
+        "pinecone",
+        "vector-database",
+        "embeddings",
+        "similarity-search",
+        "ai",
+        "official"
+    ]
+}

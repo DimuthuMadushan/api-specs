@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Zip Code Detailed Info API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/zip-code-detail",
+    "description": "The Interzoid Zip Code Detailed Info API returns demographic and geographic detail for a US postal code. It provides the city, state, county, latitude and longitude and area information, for address enrichment and territory analysis.",
+    "tags": [
+        "interzoid",
+        "zip-code",
+        "geolocation",
+        "demographics",
+        "usa",
+        "official"
+    ]
+}

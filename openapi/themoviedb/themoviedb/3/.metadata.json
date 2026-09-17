@@ -1,0 +1,15 @@
+{
+    "name": "The Movie Database API",
+    "baseUrl": "https://api.themoviedb.org/3",
+    "documentationUrl": "https://developer.themoviedb.org/reference/intro/getting-started",
+    "description": "The Movie Database API provides metadata for films and television. It covers movie, TV series, season, episode and person details, credits, images and videos, search and discovery with filters, trending and popular lists, genres, keywords, watch providers, reviews and user account lists.",
+    "tags": [
+        "tmdb",
+        "movies",
+        "tv",
+        "metadata",
+        "media",
+        "entertainment",
+        "official"
+    ]
+}

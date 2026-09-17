@@ -1,0 +1,15 @@
+{
+    "name": "Zuora REST API",
+    "baseUrl": "https://rest.zuora.com",
+    "documentationUrl": "https://developer.zuora.com/api-references/api/overview/",
+    "description": "The Zuora REST API manages subscription billing and revenue. It covers accounts and contacts, product catalogue, rate plans and charges, subscriptions with amendments and renewals, orders, invoices, credit and debit memos, payments, refunds and payment methods, usage records, journal runs and billing operations.",
+    "tags": [
+        "zuora",
+        "subscriptions",
+        "billing",
+        "revenue",
+        "invoicing",
+        "finance",
+        "official"
+    ]
+}

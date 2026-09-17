@@ -1,0 +1,14 @@
+{
+    "name": "YNAB API",
+    "baseUrl": "https://api.ynab.com/v1",
+    "documentationUrl": "https://api.ynab.com/",
+    "description": "The You Need A Budget API provides access to budget data. It covers budgets and their settings, accounts, categories and category groups with budgeted and available amounts, payees and payee locations, transactions and scheduled transactions, and monthly budget snapshots.",
+    "tags": [
+        "ynab",
+        "budgeting",
+        "personal-finance",
+        "transactions",
+        "accounts",
+        "official"
+    ]
+}

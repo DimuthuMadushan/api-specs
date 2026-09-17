@@ -1,0 +1,14 @@
+{
+    "name": "SoundCloud Public API",
+    "baseUrl": "https://api.soundcloud.com",
+    "documentationUrl": "https://developers.soundcloud.com/docs/api/guide",
+    "description": "The SoundCloud Public API provides access to tracks, playlists and users. It supports uploading and updating tracks, retrieving stream and download URLs, managing playlists, searching the catalogue, following users, and reading likes, reposts and comments.",
+    "tags": [
+        "soundcloud",
+        "music",
+        "audio",
+        "streaming",
+        "media",
+        "official"
+    ]
+}

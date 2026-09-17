@@ -1,0 +1,14 @@
+{
+    "name": "PocketSmith API",
+    "baseUrl": "https://api.pocketsmith.com/v2",
+    "documentationUrl": "https://developers.pocketsmith.com/reference",
+    "description": "The PocketSmith API provides access to personal finance data. It covers users and accounts, transaction accounts and institutions, transactions and categories, budgets, scenarios and forecasts, saved searches, attachments and labels.",
+    "tags": [
+        "pocketsmith",
+        "personal-finance",
+        "budgeting",
+        "transactions",
+        "forecasting",
+        "official"
+    ]
+}

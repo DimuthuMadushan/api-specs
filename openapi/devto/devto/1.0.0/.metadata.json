@@ -1,0 +1,14 @@
+{
+    "name": "Forem (DEV.to) API",
+    "baseUrl": "https://dev.to/api",
+    "documentationUrl": "https://developers.forem.com/api/v1",
+    "description": "The Forem API powers DEV.to and other Forem communities. It provides endpoints for publishing, updating and listing articles, browsing comments, tags, users and organisations, managing follows, reading lists and reactions, and retrieving podcast episodes and videos.",
+    "tags": [
+        "forem",
+        "devto",
+        "blogging",
+        "articles",
+        "community",
+        "official"
+    ]
+}

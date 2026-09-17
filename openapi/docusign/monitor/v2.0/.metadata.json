@@ -1,0 +1,14 @@
+{
+    "name": "DocuSign Monitor API",
+    "baseUrl": "https://lens.docusign.net",
+    "documentationUrl": "https://developers.docusign.com/docs/monitor-api/",
+    "description": "The DocuSign Monitor API streams organisation-wide security and activity event data. It returns a chronological feed of authentication, envelope, administration and configuration events with cursor-based paging, so activity can be exported into a SIEM or audit pipeline for threat detection.",
+    "tags": [
+        "docusign",
+        "monitor",
+        "security",
+        "audit",
+        "events",
+        "official"
+    ]
+}

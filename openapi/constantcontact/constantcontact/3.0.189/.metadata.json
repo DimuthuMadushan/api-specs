@@ -1,0 +1,14 @@
+{
+    "name": "Constant Contact API",
+    "baseUrl": "https://api.cc.email/v3",
+    "documentationUrl": "https://developer.constantcontact.com/api_reference/index.html",
+    "description": "The Constant Contact API manages email marketing assets and audiences. It provides endpoints for contacts and contact lists, custom fields and tags, email campaigns and their activities, scheduling and sending, reporting on opens, clicks and bounces, segments and account information.",
+    "tags": [
+        "constantcontact",
+        "email-marketing",
+        "campaigns",
+        "contacts",
+        "marketing",
+        "official"
+    ]
+}

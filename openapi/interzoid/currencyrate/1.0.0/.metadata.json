@@ -1,0 +1,14 @@
+{
+    "name": "Interzoid Live Currency Rate API",
+    "baseUrl": "https://api.interzoid.com",
+    "documentationUrl": "https://www.interzoid.com/apis/live-currency-rates",
+    "description": "The Interzoid Live Currency Rate API returns the current exchange rate for a currency. Given a three-letter currency code it responds with the live rate against the US dollar along with a timestamp, for use in pricing, reporting and financial calculations.",
+    "tags": [
+        "interzoid",
+        "currency",
+        "exchange-rates",
+        "finance",
+        "data",
+        "official"
+    ]
+}

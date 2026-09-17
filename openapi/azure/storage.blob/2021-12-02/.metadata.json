@@ -1,0 +1,14 @@
+{
+    "name": "Azure Blob Storage API",
+    "baseUrl": "https://{accountName}.blob.core.windows.net",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/storageservices/blob-service-rest-api",
+    "description": "The Azure Blob Storage data plane API reads and writes unstructured object data. It provides operations for containers and blobs including upload and download, block, append and page blob semantics, copy and snapshot, leases, metadata and properties, tags, access tiers and blob-level access control.",
+    "tags": [
+        "azure",
+        "blob",
+        "storage",
+        "objects",
+        "cloud",
+        "official"
+    ]
+}

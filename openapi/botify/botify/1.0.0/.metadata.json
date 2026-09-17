@@ -1,0 +1,14 @@
+{
+    "name": "Botify API",
+    "baseUrl": "https://api.botify.com/v1",
+    "documentationUrl": "https://developers.botify.com/reference",
+    "description": "The Botify API provides access to technical SEO crawl and analytics data. It supports launching and inspecting crawls, querying analysis results with the BQL query language, retrieving URL-level metrics and exporting datasets for search engine optimisation reporting.",
+    "tags": [
+        "botify",
+        "seo",
+        "crawling",
+        "analytics",
+        "marketing",
+        "official"
+    ]
+}

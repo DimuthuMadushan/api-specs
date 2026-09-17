@@ -1,0 +1,14 @@
+{
+    "name": "Weaviate REST API",
+    "baseUrl": "http://localhost:8080/v1",
+    "documentationUrl": "https://weaviate.io/developers/weaviate/api/rest",
+    "description": "The Weaviate REST API manages an open-source vector database. It covers schema and collection definitions, object create, read, update and delete with vectors and references, batch operations, backups, cluster and shard status, classification, and tenant management for multi-tenant collections.",
+    "tags": [
+        "weaviate",
+        "vector-database",
+        "embeddings",
+        "semantic-search",
+        "ai",
+        "official"
+    ]
+}

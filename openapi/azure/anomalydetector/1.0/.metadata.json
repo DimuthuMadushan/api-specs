@@ -1,0 +1,14 @@
+{
+    "name": "Azure Anomaly Detector API",
+    "baseUrl": "https://{endpoint}/anomalydetector/v1.0",
+    "documentationUrl": "https://learn.microsoft.com/en-us/azure/ai-services/anomaly-detector/",
+    "description": "The Azure Anomaly Detector API finds anomalies in time series data without requiring machine learning expertise. It supports batch detection over an entire series, detection of the latest point for streaming scenarios, and change point detection to identify trend shifts.",
+    "tags": [
+        "azure",
+        "anomaly-detection",
+        "ai",
+        "time-series",
+        "cognitive-services",
+        "official"
+    ]
+}

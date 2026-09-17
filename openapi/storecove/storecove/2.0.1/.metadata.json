@@ -1,0 +1,15 @@
+{
+    "name": "Storecove API",
+    "baseUrl": "https://api.storecove.com/api/v2",
+    "documentationUrl": "https://www.storecove.com/docs/",
+    "description": "The Storecove API sends and receives electronic invoices over the Peppol network and other e-invoicing channels. It supports submitting invoices and credit notes, discovering whether a recipient is reachable, managing legal entities, peppol identifiers, webhooks and received document retrieval.",
+    "tags": [
+        "storecove",
+        "e-invoicing",
+        "peppol",
+        "invoices",
+        "finance",
+        "compliance",
+        "official"
+    ]
+}

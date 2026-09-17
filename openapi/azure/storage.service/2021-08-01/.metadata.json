@@ -1,0 +1,14 @@
+{
+    "name": "Azure Storage Management API",
+    "baseUrl": "https://management.azure.com",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/storagerp/",
+    "description": "The Azure Storage resource provider API manages storage accounts through Azure Resource Manager. It supports creating, updating and deleting accounts, listing and regenerating access keys, configuring network rules, encryption scopes, blob and file service properties, private endpoints and management policies.",
+    "tags": [
+        "azure",
+        "storage",
+        "management",
+        "blob",
+        "cloud",
+        "official"
+    ]
+}

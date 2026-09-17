@@ -1,0 +1,14 @@
+{
+    "name": "Avaza API",
+    "baseUrl": "https://api.avaza.com",
+    "documentationUrl": "https://api.avaza.com/swagger/ui/index",
+    "description": "The Avaza API provides access to Avaza's professional services automation platform. It covers project and task management, timesheets and time tracking, expenses, quotes, invoices and payments, customers and contacts, enabling billing and project data to be synchronised with other business systems.",
+    "tags": [
+        "avaza",
+        "project-management",
+        "timesheets",
+        "invoicing",
+        "expenses",
+        "official"
+    ]
+}

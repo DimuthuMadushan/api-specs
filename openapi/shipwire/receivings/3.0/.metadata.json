@@ -1,0 +1,14 @@
+{
+    "name": "Shipwire Receivings API",
+    "baseUrl": "https://api.shipwire.com/api/v3",
+    "documentationUrl": "https://www.shipwire.com/developers/receiving/",
+    "description": "The Shipwire Receivings API manages inbound shipments into Shipwire warehouses. It supports creating advance ship notices, listing and cancelling receivings, tracking arrival and processing status, and retrieving holds, items, labels, trackings and shipping quotes for a receiving.",
+    "tags": [
+        "shipwire",
+        "logistics",
+        "warehouse",
+        "inbound-shipping",
+        "fulfillment",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Microsoft Dynamics 365 Business Central API",
+    "baseUrl": "https://api.businesscentral.dynamics.com/v2.0/production/api/v1.0",
+    "documentationUrl": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v1.0/",
+    "description": "The Dynamics 365 Business Central API provides access to the Business Central ERP. It covers customers, vendors and contacts, items and item categories, sales and purchase orders, quotes, invoices and credit memos, payments and journals, dimensions, chart of accounts and company information.",
+    "tags": [
+        "microsoft",
+        "dynamics365",
+        "business-central",
+        "erp",
+        "finance",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Twilio SendGrid Mail API",
+    "baseUrl": "https://api.sendgrid.com/v3",
+    "documentationUrl": "https://www.twilio.com/docs/sendgrid/api-reference",
+    "description": "The Twilio SendGrid Mail API sends transactional and marketing email. It supports single and batched sends with dynamic templates, personalisations, attachments, scheduling, categories and custom arguments, along with batch id management and mail send validation.",
+    "tags": [
+        "sendgrid",
+        "twilio",
+        "email",
+        "transactional-email",
+        "messaging",
+        "official"
+    ]
+}

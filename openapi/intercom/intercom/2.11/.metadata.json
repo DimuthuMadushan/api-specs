@@ -1,0 +1,14 @@
+{
+    "name": "Intercom API",
+    "baseUrl": "https://api.intercom.io",
+    "documentationUrl": "https://developers.intercom.com/docs/references/introduction/",
+    "description": "The Intercom API manages customer messaging and support data. It provides endpoints for contacts, companies and segments, conversations, replies and assignment, tickets, articles and help centre collections, tags, notes, data attributes, events and subscription types.",
+    "tags": [
+        "intercom",
+        "customer-support",
+        "messaging",
+        "conversations",
+        "crm",
+        "official"
+    ]
+}

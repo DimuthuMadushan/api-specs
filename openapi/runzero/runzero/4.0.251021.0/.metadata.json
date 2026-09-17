@@ -1,0 +1,14 @@
+{
+    "name": "runZero API",
+    "baseUrl": "https://console.runzero.com/api/v1.0",
+    "documentationUrl": "https://www.runzero.com/docs/leveraging-the-api/",
+    "description": "The runZero API provides access to network discovery and asset inventory data. It covers scan tasks and explorers, discovered assets, services and software, sites and organisations, queries and saved searches, alerts and exports for attack surface management.",
+    "tags": [
+        "runzero",
+        "asset-discovery",
+        "network-scanning",
+        "security",
+        "inventory",
+        "official"
+    ]
+}

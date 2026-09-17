@@ -1,0 +1,14 @@
+{
+    "name": "Xero App Store API",
+    "baseUrl": "https://api.xero.com/appstore/2.0",
+    "documentationUrl": "https://developer.xero.com/documentation/api/appstore/overview",
+    "description": "The Xero App Store API manages subscriptions sold through the Xero App Store. It lets a publisher retrieve subscription details and plans, list subscription usage records, and create usage records for metered billing of their app.",
+    "tags": [
+        "xero",
+        "app-store",
+        "subscriptions",
+        "billing",
+        "marketplace",
+        "official"
+    ]
+}

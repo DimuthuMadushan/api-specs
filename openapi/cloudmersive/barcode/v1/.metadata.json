@@ -1,0 +1,14 @@
+{
+    "name": "Cloudmersive Barcode API",
+    "baseUrl": "https://api.cloudmersive.com",
+    "documentationUrl": "https://api.cloudmersive.com/docs/barcode.asp",
+    "description": "The Cloudmersive Barcode API generates and reads barcodes. It can produce EAN-13, EAN-8, UPC-A, UPC-E, QR and other barcode images from supplied values, and scan an uploaded image to recognise the barcode type and decode its content.",
+    "tags": [
+        "cloudmersive",
+        "barcode",
+        "qr-code",
+        "scanning",
+        "imaging",
+        "official"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Adobe Analytics API",
+    "baseUrl": "https://analytics.adobe.io",
+    "documentationUrl": "https://developer.adobe.com/analytics-apis/docs/2.0/",
+    "description": "The Adobe Analytics API provides programmatic access to Adobe Analytics reporting and configuration. It supports running ranked, trended and segmented report requests, managing segments, calculated metrics, date ranges and annotations, and discovering report suite dimensions and metrics for building custom analytics dashboards and data pipelines.",
+    "tags": [
+        "adobe",
+        "analytics",
+        "reporting",
+        "marketing",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Bintable BIN Lookup API",
+    "baseUrl": "https://api.bintable.com/v1",
+    "documentationUrl": "https://bintable.com/get-api",
+    "description": "The Bintable BIN Lookup API resolves a bank identification number into card details. It returns the issuing bank, card brand, type and level, issuing country and currency, which is used for payment routing, fraud checks and tailoring checkout experiences.",
+    "tags": [
+        "bintable",
+        "bin-lookup",
+        "payments",
+        "cards",
+        "fraud",
+        "official"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "PayPal Subscriptions API",
+    "baseUrl": "https://api-m.paypal.com",
+    "documentationUrl": "https://developer.paypal.com/docs/api/subscriptions/v1/",
+    "description": "The PayPal Subscriptions API manages recurring billing. It provides endpoints for creating product catalogue entries and billing plans, creating and activating subscriptions, suspending, cancelling and revising them, capturing authorized payments and listing subscription transactions.",
+    "tags": [
+        "paypal",
+        "subscriptions",
+        "recurring-billing",
+        "payments",
+        "finance",
+        "official"
+    ]
+}

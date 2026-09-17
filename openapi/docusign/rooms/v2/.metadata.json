@@ -1,0 +1,14 @@
+{
+    "name": "DocuSign Rooms API",
+    "baseUrl": "https://rooms.docusign.com",
+    "documentationUrl": "https://developers.docusign.com/docs/rooms-api/",
+    "description": "The DocuSign Rooms API manages transaction rooms used in real estate and mortgage workflows. It provides endpoints for creating and closing rooms, inviting and managing room members and roles, uploading and organising documents, applying room templates, task lists, form groups and field data.",
+    "tags": [
+        "docusign",
+        "rooms",
+        "real-estate",
+        "documents",
+        "transactions",
+        "official"
+    ]
+}

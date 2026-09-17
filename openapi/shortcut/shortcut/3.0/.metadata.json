@@ -1,0 +1,14 @@
+{
+    "name": "Shortcut REST API",
+    "baseUrl": "https://api.app.shortcut.com/api/v3",
+    "documentationUrl": "https://developer.shortcut.com/api/rest/v3",
+    "description": "The Shortcut REST API manages software project planning data. It provides endpoints for stories, epics, iterations and milestones, workflows and workflow states, projects and teams, labels, comments, tasks and story links, files, members and search.",
+    "tags": [
+        "shortcut",
+        "project-management",
+        "agile",
+        "issue-tracking",
+        "planning",
+        "official"
+    ]
+}

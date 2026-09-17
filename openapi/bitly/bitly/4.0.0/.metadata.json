@@ -1,0 +1,14 @@
+{
+    "name": "Bitly API",
+    "baseUrl": "https://api-ssl.bitly.com/v4",
+    "documentationUrl": "https://dev.bitly.com/api-reference",
+    "description": "The Bitly API creates and manages shortened links. It supports shortening URLs, customising back-halves, managing custom domains and branded short domains, organising links into campaigns and channels, and retrieving click analytics broken down by country, referrer and device.",
+    "tags": [
+        "bitly",
+        "url-shortener",
+        "links",
+        "analytics",
+        "marketing",
+        "official"
+    ]
+}

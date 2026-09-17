@@ -1,0 +1,14 @@
+{
+    "name": "Spotify Web API",
+    "baseUrl": "https://api.spotify.com/v1",
+    "documentationUrl": "https://developer.spotify.com/documentation/web-api",
+    "description": "The Spotify Web API provides access to the Spotify music catalogue and user data. It covers albums, artists, tracks and their audio features and analysis, playlists and playlist items, search, shows and episodes, audiobooks, user profiles and library, and playback state and control.",
+    "tags": [
+        "spotify",
+        "music",
+        "streaming",
+        "playlists",
+        "media",
+        "official"
+    ]
+}

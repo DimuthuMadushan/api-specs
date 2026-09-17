@@ -1,0 +1,14 @@
+{
+    "name": "Azure Key Vault API",
+    "baseUrl": "https://{vaultBaseUrl}",
+    "documentationUrl": "https://learn.microsoft.com/en-us/rest/api/keyvault/",
+    "description": "The Azure Key Vault data plane API manages secrets, keys and certificates held in a key vault. It supports creating, retrieving, updating, versioning, backing up and restoring secrets and certificates, and cryptographic operations such as sign, verify, encrypt, decrypt, wrap and unwrap using vault-held keys.",
+    "tags": [
+        "azure",
+        "keyvault",
+        "secrets",
+        "cryptography",
+        "security",
+        "official"
+    ]
+}

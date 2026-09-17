@@ -1,0 +1,14 @@
+{
+    "name": "Azure Text Analytics API",
+    "baseUrl": "https://{endpoint}/text/analytics/v3.1",
+    "documentationUrl": "https://learn.microsoft.com/en-us/azure/ai-services/language-service/",
+    "description": "The Azure Text Analytics API provides natural language processing over raw text. It supports sentiment analysis with opinion mining, key phrase extraction, named entity recognition and linking, personally identifiable information detection, language detection and healthcare entity extraction.",
+    "tags": [
+        "azure",
+        "text-analytics",
+        "nlp",
+        "ai",
+        "cognitive-services",
+        "official"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Mistral AI API",
+    "baseUrl": "https://api.mistral.ai",
+    "documentationUrl": "https://docs.mistral.ai/api/",
+    "description": "The Mistral AI API provides access to Mistral's language and embedding models. It supports chat completions with streaming and tool calling, fill-in-the-middle code completion, embeddings, function calling, JSON mode, fine-tuning jobs, file management, agents and batch inference.",
+    "tags": [
+        "mistral",
+        "ai",
+        "llm",
+        "chat",
+        "embeddings",
+        "inference",
+        "official"
+    ]
+}
