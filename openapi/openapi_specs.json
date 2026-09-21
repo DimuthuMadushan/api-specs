@@ -1,73 +1,328 @@
 [
     {
-       "name": "Ardoq",
-       "sourceUrl": "https://developer.ardoq.com/public-api/",
-       "connectorRepo": "ballerina-platform/module-ballerinax-ardoq"
-   },
-   {
-       "name": "Asana",
-       "sourceUrl": "https://github.com/Asana/openapi",
-       "connectorRepo": "ballerina-platform/module-ballerinax-asana"
-   },
-   {
-       "name": "Candid",
-       "sourceUrl": "https://developer.candid.org/reference/openapi",
-       "connectorRepo": "ballerina-platform/module-ballerinax-candid"
-   },
-   {
-       "name": "Discord",
-       "sourceUrl": "https://discord.com/developers/docs/reference",
-       "connectorRepo": "ballerina-platform/module-ballerinax-discord"
-   },
-   {
-       "name": "DocuSign Click",
-       "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
-       "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsclick"
-   },
-   {
-       "name": "DocuSign eSign",
-       "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
-       "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsesign"
-   },
-   {
-       "name": "DocuSign admin",
-       "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
-       "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsadmin"
-   },
-   {
-       "name": "Elastic Cloud",
-       "sourceUrl": "https://www.elastic.co/docs/api/doc/cloud/",
-       "connectorRepo": "ballerina-platform/module-ballerinax-elastic.elasticcloud"
-   },
-   {
-       "name": "GitHub",
-       "sourceUrl": "https://docs.github.com/en/rest",
-       "connectorRepo": "ballerina-platform/module-ballerinax-github"
-   },
-   {
-       "name": "Google Calendar",
-       "sourceUrl": "https://developers.google.com/calendar/api/v3/reference",
-       "connectorRepo": "ballerina-platform/module-ballerinax-gcalendar"
-   },
-   {
+        "name": "1Password Connect API",
+        "sourceUrl": "https://raw.githubusercontent.com/1Password/connect/main/docs/openapi/spec.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-onepassword"
+    },
+    {
+        "name": "Adobe Analytics API",
+        "sourceUrl": "https://raw.githubusercontent.com/AdobeDocs/analytics-2.0-apis/master/docs/swagger.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-adobe.analytics"
+    },
+    {
+        "name": "Amadeus Flight Create Orders API",
+        "sourceUrl": "https://raw.githubusercontent.com/amadeus4dev/amadeus-open-api-specification/main/spec/json/FlightCreateOrders_v1_swagger_specification.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-amadeus.flightcreateorders"
+    },
+    {
+        "name": "Amadeus Flight Offers Price API",
+        "sourceUrl": "https://raw.githubusercontent.com/amadeus4dev/amadeus-open-api-specification/master/spec/json/FlightOffersPrice_v1_swagger_specification.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-amadeus.flightoffersprice"
+    },
+    {
+        "name": "Amadeus Flight Offers Search API",
+        "sourceUrl": "https://raw.githubusercontent.com/amadeus4dev/amadeus-open-api-specification/master/spec/json/FlightOffersSearch_v2_swagger_specification.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-amadeus.flightofferssearch"
+    },
+    {
+        "name": "Apideck Accounting API",
+        "sourceUrl": "https://raw.githubusercontent.com/apideck-libraries/openapi-specs/main/accounting.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-apideck.accounting"
+    },
+    {
+        "name": "Apideck Lead API",
+        "sourceUrl": "https://specs.apideck.com/lead.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-apideck.lead"
+    },
+    {
+        "name": "Apideck Proxy API",
+        "sourceUrl": "https://raw.githubusercontent.com/apideck-libraries/openapi-specs/master/proxy.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-apideck.proxy"
+    },
+    {
+        "name": "Apple App Store Connect API",
+        "sourceUrl": "https://developer.apple.com/sample-code/app-store-connect/app-store-connect-openapi-specification.zip",
+        "connectorRepo": "ballerina-platform/module-ballerinax-apple.appstore"
+    },
+    {
+        "name": "Ardoq",
+        "sourceUrl": "https://developer.ardoq.com/public-api/",
+        "connectorRepo": "ballerina-platform/module-ballerinax-ardoq"
+    },
+    {
+        "name": "Asana",
+        "sourceUrl": "https://github.com/Asana/openapi",
+        "connectorRepo": "ballerina-platform/module-ballerinax-asana"
+    },
+    {
+        "name": "Avaza API",
+        "sourceUrl": "https://api.avaza.com/swagger/docs/v1",
+        "connectorRepo": "ballerina-platform/module-ballerinax-avaza"
+    },
+    {
+        "name": "Azure AI Search Index API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/search/data-plane/Search/stable/2024-07-01/searchindex.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.ai.search.index"
+    },
+    {
+        "name": "Azure AI Search Service API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/search/data-plane/Search/stable/2024-07-01/searchservice.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.ai.search"
+    },
+    {
+        "name": "Azure Analysis Services Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/analysisservices/resource-manager/Microsoft.AnalysisServices/stable/2017-08-01/analysisservices.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.analysisservices"
+    },
+    {
+        "name": "Azure Anomaly Detector API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AnomalyDetector/stable/v1.0/AnomalyDetector.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.anomalydetector"
+    },
+    {
+        "name": "Azure Blob Storage API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/data-plane/Microsoft.BlobStorage/stable/2021-12-02/blob.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.storage.blob"
+    },
+    {
+        "name": "Azure Data Lake Storage REST API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/data-plane/Microsoft.StorageDataLake/stable/2018-11-09/DataLakeStorage.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.datalake"
+    },
+    {
+        "name": "Azure Event Hubs Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/eventhub/resource-manager/Microsoft.EventHub/stable/2017-04-01/eventhubs.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.eventhub"
+    },
+    {
+        "name": "Azure IoT Central Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/iotcentral/resource-manager/Microsoft.IoTCentral/IoTCentral/stable/2021-06-01/iotcentral.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.iotcentral"
+    },
+    {
+        "name": "Azure Key Vault API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/keyvault/data-plane/Microsoft.KeyVault/preview/7.0/keyvault.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.keyvault"
+    },
+    {
+        "name": "Azure OpenAI Service API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.openai.deployment"
+    },
+    {
+        "name": "Azure OpenAI Service API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.openai.embeddings"
+    },
+    {
+        "name": "Azure OpenAI Service API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.openai.finetunes"
+    },
+    {
+        "name": "Azure OpenAI Service API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference/stable/2024-10-21/inference.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.openai.text"
+    },
+    {
+        "name": "Azure QnA Maker API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMaker.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.qnamaker"
+    },
+    {
+        "name": "Azure SQL Database Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/sql/resource-manager/Microsoft.Sql/preview/2017-10-01-preview/databases.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.sqldb"
+    },
+    {
+        "name": "Azure Storage Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/storage/resource-manager/Microsoft.Storage/stable/2021-08-01/storage.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure-storage-service"
+    },
+    {
+        "name": "Azure Text Analytics API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/cognitiveservices/data-plane/TextAnalytics/stable/v3.1/TextAnalytics.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.textanalytics"
+    },
+    {
+        "name": "Azure Time Series Insights Management API",
+        "sourceUrl": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/main/specification/timeseriesinsights/resource-manager/Microsoft.TimeSeriesInsights/stable/2020-05-15/timeseriesinsights.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.timeseries"
+    },
+    {
+        "name": "Bintable BIN Lookup API",
+        "sourceUrl": "https://bintable.com/api-files/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-bintable"
+    },
+    {
+        "name": "Bitbucket Cloud API",
+        "sourceUrl": "https://api.bitbucket.org/swagger.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-bitbucket"
+    },
+    {
+        "name": "Bitly API",
+        "sourceUrl": "https://dev.bitly.com/v4/v4.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-bitly"
+    },
+    {
+        "name": "Botify API",
+        "sourceUrl": "https://api.botify.com/v1/swagger.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-botify"
+    },
+    {
+        "name": "Box Platform API",
+        "sourceUrl": "https://raw.githubusercontent.com/box/box-openapi/main/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-box"
+    },
+    {
+        "name": "Box Platform API",
+        "sourceUrl": "https://raw.githubusercontent.com/box/box-openapi/main/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-boxapi"
+    },
+    {
+        "name": "Candid",
+        "sourceUrl": "https://developer.candid.org/reference/openapi",
+        "connectorRepo": "ballerina-platform/module-ballerinax-candid"
+    },
+    {
+        "name": "Clever Data API",
+        "sourceUrl": "https://apps.clever.com/api-v3.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-clever.data"
+    },
+    {
+        "name": "Cloudmersive Barcode API",
+        "sourceUrl": "https://api-console.cloudmersive.com/swagger/index.html?urls.primaryName=Barcode%20API",
+        "connectorRepo": "ballerina-platform/module-ballerinax-cloudmersive.barcode"
+    },
+    {
+        "name": "Cloudmersive Currency API",
+        "sourceUrl": "https://api-console.cloudmersive.com/swagger/index.html?urls.primaryName=Currency%20API",
+        "connectorRepo": "ballerina-platform/module-ballerinax-cloudmersive.currency"
+    },
+    {
+        "name": "Cloudmersive Validate API",
+        "sourceUrl": "https://api.cloudmersive.com/swagger/api/validate",
+        "connectorRepo": "ballerina-platform/module-ballerinax-cloudmersive.validate"
+    },
+    {
+        "name": "Cloudmersive Virus Scan API",
+        "sourceUrl": "https://api-console.cloudmersive.com/swagger/api/spec/virus",
+        "connectorRepo": "ballerina-platform/module-ballerinax-cloudmersive.virusscan"
+    },
+    {
+        "name": "commercetools Change History API",
+        "sourceUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/history/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-commercetools.auditlog"
+    },
+    {
+        "name": "commercetools Composable Commerce API",
+        "sourceUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-commercetools.customizebehavior"
+    },
+    {
+        "name": "commercetools Composable Commerce API",
+        "sourceUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-commercetools.customizedata"
+    },
+    {
+        "name": "commercetools Composable Commerce API",
+        "sourceUrl": "https://raw.githubusercontent.com/commercetools/commercetools-api-reference/main/oas/api/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-commercetools.pricingdiscount"
+    },
+    {
+        "name": "Constant Contact API",
+        "sourceUrl": "https://api.cc.email/v3/swagger.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-constantcontact"
+    },
+    {
+        "name": "Discord",
+        "sourceUrl": "https://discord.com/developers/docs/reference",
+        "connectorRepo": "ballerina-platform/module-ballerinax-discord"
+    },
+    {
+        "name": "DocuSign admin",
+        "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsadmin"
+    },
+    {
+        "name": "DocuSign Click",
+        "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsclick"
+    },
+    {
+        "name": "DocuSign eSign",
+        "sourceUrl": "https://github.com/docusign/OpenAPI-Specifications",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsesign"
+    },
+    {
+        "name": "DocuSign Monitor API",
+        "sourceUrl": "https://raw.githubusercontent.com/docusign/OpenAPI-Specifications/master/monitor.rest.swagger-v2.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.monitor"
+    },
+    {
+        "name": "DocuSign Rooms API",
+        "sourceUrl": "https://raw.githubusercontent.com/docusign/OpenAPI-Specifications/master/rooms.rest.swagger-v2.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.dsrooms"
+    },
+    {
+        "name": "DocuSign Rooms API",
+        "sourceUrl": "https://raw.githubusercontent.com/docusign/OpenAPI-Specifications/master/rooms.rest.swagger-v2.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-docusign.rooms"
+    },
+    {
+        "name": "Elastic Cloud",
+        "sourceUrl": "https://www.elastic.co/docs/api/doc/cloud/",
+        "connectorRepo": "ballerina-platform/module-ballerinax-elastic.elasticcloud"
+    },
+    {
+        "name": "Flat API",
+        "sourceUrl": "https://flat.io/developers/docs/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-flatapi"
+    },
+    {
+        "name": "Forem (DEV.to) API",
+        "sourceUrl": "https://raw.githubusercontent.com/forem/forem/main/swagger/v1/api_v1.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-dev.to"
+    },
+    {
+        "name": "GitHub",
+        "sourceUrl": "https://docs.github.com/en/rest",
+        "connectorRepo": "ballerina-platform/module-ballerinax-github"
+    },
+    {
+        "name": "GitLab REST API",
+        "sourceUrl": "https://raw.githubusercontent.com/gitlabhq/gitlabhq/master/doc/api/openapi/openapi_v3.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-gitlab"
+    },
+    {
+        "name": "GoDaddy Domains API",
+        "sourceUrl": "https://developer.godaddy.com/openapi/domains-v3.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-godaddy.domains"
+    },
+    {
+        "name": "Google Calendar",
+        "sourceUrl": "https://developers.google.com/calendar/api/v3/reference",
+        "connectorRepo": "ballerina-platform/module-ballerinax-gcalendar"
+    },
+    {
         "name": "Google Gmail",
         "sourceUrl": "https://developers.google.com/gmail/api/reference/rest",
         "connectorRepo": "ballerina-platform/module-ballerinax-googleapis.gmail"
-   },
-   {
-       "name": "Guidewire Insnow",
-       "sourceUrl": "https://www.guidewire.com/Developers/APIs/InsuranceNow-APIs",
-       "connectorRepo": "ballerina-platform/module-ballerinax-guidewire.insnow"
-   },
-   {
+    },
+    {
+        "name": "Guidewire Insnow",
+        "sourceUrl": "https://www.guidewire.com/Developers/APIs/InsuranceNow-APIs",
+        "connectorRepo": "ballerina-platform/module-ballerinax-guidewire.insnow"
+    },
+    {
         "name": "HubSpot Automation Actions",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.automation.actions"
-   },
-   {
-       "name": "HubSpot CRM Associations",
-       "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
-       "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.associations"
+    },
+    {
+        "name": "HubSpot CRM Associations",
+        "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
+        "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.associations"
     },
     {
         "name": "HubSpot CRM Associations Schema",
@@ -79,11 +334,13 @@
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.commerce.carts"
     },
-    {   "name": "HubSpot CRM Commerce Discounts",
+    {
+        "name": "HubSpot CRM Commerce Discounts",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.commerce.discounts"
     },
-    {   "name": "HubSpot CRM Commerce Orders",
+    {
+        "name": "HubSpot CRM Commerce Orders",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.commerce.orders"
     },
@@ -102,31 +359,38 @@
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagement.meeting"
     },
-    {    "name": "HubSpot CRM Engagement Notes",
-         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
-         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagement.notes"
+    {
+        "name": "HubSpot CRM Engagement Notes",
+        "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
+        "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagement.notes"
     },
-    {    "name": "HubSpot CRM Engagements Calls",
+    {
+        "name": "HubSpot CRM Engagements Calls",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagements.calls"
     },
-    {  "name": "HubSpot CRM Engagements Communications",
+    {
+        "name": "HubSpot CRM Engagements Communications",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagements.communications"
     },
-    {  "name": "HubSpot CRM Engagements Email",
+    {
+        "name": "HubSpot CRM Engagements Email",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagements.email"
     },
-    {  "name": "HubSpot CRM Engagements Tasks",
+    {
+        "name": "HubSpot CRM Engagements Tasks",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.engagements.tasks"
     },
-    {  "name": "HubSpot CRM Extensions Timelines",
+    {
+        "name": "HubSpot CRM Extensions Timelines",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.extensions.timelines"
     },
-    {  "name": "HubSpot CRM Extensions Videoconferencing",
+    {
+        "name": "HubSpot CRM Extensions Videoconferencing",
         "sourceUrl": "https://github.com/HubSpot/HubSpot-public-api-spec-collection",
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.crm.extensions.videoconferencing"
     },
@@ -231,9 +495,89 @@
         "connectorRepo": "ballerina-platform/module-ballerinax-hubspot.marketing.transactional"
     },
     {
+        "name": "Hugging Face Text Generation Inference API",
+        "sourceUrl": "https://raw.githubusercontent.com/huggingface/text-generation-inference/main/docs/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-huggingface.tgi"
+    },
+    {
+        "name": "Intercom API",
+        "sourceUrl": "https://raw.githubusercontent.com/intercom/Intercom-OpenAPI/main/descriptions/2.11/api.intercom.io.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-intercom"
+    },
+    {
+        "name": "Interzoid Convert Currency Rate API",
+        "sourceUrl": "https://oas.interzoid.com/api/convertcurrency.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.convertcurrency"
+    },
+    {
+        "name": "Interzoid Current Weather by Zip Code API",
+        "sourceUrl": "https://www.interzoid.com/openapi/v3-1/current-weather-zip-code.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.weatherzip"
+    },
+    {
+        "name": "Interzoid Get Email Information API",
+        "sourceUrl": "https://app.swaggerhub.com/apis/interzoid/email_validation/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.emailinfo"
+    },
+    {
+        "name": "Interzoid Get Global Phone Number Information API",
+        "sourceUrl": "https://api.swaggerhub.com/apis/interzoid/global_phone_info/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.globalnumberinfo"
+    },
+    {
+        "name": "Interzoid Get Global Time API",
+        "sourceUrl": "https://api.swaggerhub.com/apis/interzoid/global_time/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.globaltime"
+    },
+    {
+        "name": "Interzoid Global Page Load Performance API",
+        "sourceUrl": "https://api.swaggerhub.com/apis/interzoid/global_page_load/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.globalpageload"
+    },
+    {
+        "name": "Interzoid Live Currency Rate API",
+        "sourceUrl": "https://www.interzoid.com/openapi/v3-1/live-currency-exchange-rates.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.currencyrate"
+    },
+    {
+        "name": "Interzoid State Data Standardization API",
+        "sourceUrl": "https://api.swaggerhub.com/apis/interzoid/state_standardization/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.statedata"
+    },
+    {
+        "name": "Interzoid Zip Code Detailed Info API",
+        "sourceUrl": "https://api.swaggerhub.com/apis/interzoid/zip_code_detail/1.0.0",
+        "connectorRepo": "ballerina-platform/module-ballerinax-interzoid.zipinfo"
+    },
+    {
+        "name": "IPGeolocation API",
+        "sourceUrl": "https://raw.githubusercontent.com/IPGeolocation/openapi/main/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-ipgeolocation"
+    },
+    {
         "name": "Jira",
         "sourceUrl": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
         "connectorRepo": "ballerina-platform/module-ballerinax-jira"
+    },
+    {
+        "name": "Jira Service Management REST API",
+        "sourceUrl": "https://developer.atlassian.com/cloud/jira/service-desk/swagger.v3.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-jira.servicemanagement"
+    },
+    {
+        "name": "Karbon API",
+        "sourceUrl": "https://karbonhq.github.io/karbon-api-reference/KarbonAPI.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-karbon"
+    },
+    {
+        "name": "LaunchDarkly REST API",
+        "sourceUrl": "https://app.launchdarkly.com/api/v2/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-launchdarkly"
+    },
+    {
+        "name": "Listen Notes API",
+        "sourceUrl": "https://listen-api.listennotes.com/api/v2/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-listen.notes"
     },
     {
         "name": "Mailchimp Marketing",
@@ -241,19 +585,104 @@
         "connectorRepo": "ballerina-platform/module-ballerinax-mailchimp.marketing"
     },
     {
+        "name": "Mailchimp Marketing API",
+        "sourceUrl": "https://raw.githubusercontent.com/mailchimp/mailchimp-client-lib-codegen/main/spec/marketing.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-mailchimp"
+    },
+    {
         "name": "Mailchimp Transactional",
         "sourceUrl": "https://mailchimp.com/developer/transactional/api/",
         "connectorRepo": "ballerina-platform/module-ballerinax-mailchimp.transactional"
     },
     {
-       "name": "Microsoft One Drive",
-       "sourceUrl": "https://learn.microsoft.com/en-us/onedrive/developer/rest-api/?view=odsp-graph-online&utm_source",
-       "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.onedrive"
-   },
-   {
+        "name": "Microsoft Dynamics 365 Business Central API",
+        "sourceUrl": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v1.0/contracts/bcoas1.0.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.dynamics365.bc"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-azure.ad"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.excel"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.onenote"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.outlook.calendar"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.outlook.mail"
+    },
+    {
+        "name": "Microsoft Graph API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoftgraph/msgraph-metadata/master/openapi/v1.0/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.teams"
+    },
+    {
+        "name": "Microsoft One Drive",
+        "sourceUrl": "https://learn.microsoft.com/en-us/onedrive/developer/rest-api/?view=odsp-graph-online&utm_source",
+        "connectorRepo": "ballerina-platform/module-ballerinax-microsoft.onedrive"
+    },
+    {
+        "name": "Mistral AI API",
+        "sourceUrl": "https://raw.githubusercontent.com/mistralai/platform-docs-public/main/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-mistral"
+    },
+    {
         "name": "OpenAI",
         "sourceUrl": "https://platform.openai.com/docs/api-reference/introduction",
         "connectorRepo": "ballerina-platform/module-ballerinax-openai"
+    },
+    {
+        "name": "OpenAI API",
+        "sourceUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openai.assistants"
+    },
+    {
+        "name": "OpenAI API",
+        "sourceUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openai.audio"
+    },
+    {
+        "name": "OpenAI API",
+        "sourceUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openai.embeddings"
+    },
+    {
+        "name": "OpenAI API",
+        "sourceUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openai.finetunes"
+    },
+    {
+        "name": "OpenAI API",
+        "sourceUrl": "https://raw.githubusercontent.com/openai/openai-openapi/master/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openai.moderations"
+    },
+    {
+        "name": "OpenRouter API",
+        "sourceUrl": "https://openrouter.ai/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-openrouter"
+    },
+    {
+        "name": "PagerDuty Events API",
+        "sourceUrl": "https://raw.githubusercontent.com/PagerDuty/api-schema/main/reference/events-v2/openapiv3.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-pagerduty"
+    },
+    {
+        "name": "PandaDoc API",
+        "sourceUrl": "https://developers.pandadoc.com/openapi/pandadoc-public-api.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-pandadoc"
     },
     {
         "name": "PayPal Invoices",
@@ -276,24 +705,99 @@
         "connectorRepo": "ballerina-platform/module-ballerinax-paypal.subscriptions"
     },
     {
-       "name": "Salesforce Marketing Cloud",
-       "sourceUrl": "https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/apis-overview?utm_source",
-       "connectorRepo": "ballerina-platform/module-ballerinax-salesforce.marketingcloud"
-   },
-   {
-       "name": "SCIM",
-       "sourceUrl": "https://developer.okta.com/docs/api/openapi/okta-scim/guides/scim-20",
-       "connectorRepo": "ballerina-platform/module-ballerinax-scim"
+        "name": "Pinecone Data Plane API",
+        "sourceUrl": "https://raw.githubusercontent.com/pinecone-io/pinecone-api/main/2025-04/db_data_2025-04.oas.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-pinecone.index"
     },
     {
-       "name": "Smartsheet",
-       "sourceUrl": "https://developers.smartsheet.com/api/smartsheet/introduction",
-       "connectorRepo": "ballerina-platform/module-ballerinax-smartsheet"
-   },
-   {
-       "name": "Stripe",
-       "sourceUrl": "https://github.com/stripe/openapi",
-       "connectorRepo": "ballerina-platform/module-ballerinax-stripe"
+        "name": "Pipedrive API",
+        "sourceUrl": "https://developers.pipedrive.com/docs/api/v1/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-pipedrive"
+    },
+    {
+        "name": "Plaid API",
+        "sourceUrl": "https://raw.githubusercontent.com/plaid/plaid-openapi/master/2020-09-14.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-plaid"
+    },
+    {
+        "name": "PocketSmith API",
+        "sourceUrl": "https://raw.githubusercontent.com/pocketsmith/api/master/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-pocketsmith"
+    },
+    {
+        "name": "Power BI REST API",
+        "sourceUrl": "https://raw.githubusercontent.com/microsoft/PowerBI-CSharp/master/sdk/swaggers/swagger.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-power.bi"
+    },
+    {
+        "name": "Recurly API",
+        "sourceUrl": "https://raw.githubusercontent.com/recurly/recurly-client-python/v3-v2021-02-25/openapi/api.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-recurly"
+    },
+    {
+        "name": "runZero API",
+        "sourceUrl": "https://app.swaggerhub.com/apis/runZero/runZero/",
+        "connectorRepo": "ballerina-platform/module-ballerinax-rumble.run"
+    },
+    {
+        "name": "Sakari API",
+        "sourceUrl": "https://developer.sakari.io/api-reference/openapi.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-sakari"
+    },
+    {
+        "name": "Salesforce Marketing Cloud",
+        "sourceUrl": "https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/apis-overview?utm_source",
+        "connectorRepo": "ballerina-platform/module-ballerinax-salesforce.marketingcloud"
+    },
+    {
+        "name": "SCIM",
+        "sourceUrl": "https://developer.okta.com/docs/api/openapi/okta-scim/guides/scim-20",
+        "connectorRepo": "ballerina-platform/module-ballerinax-scim"
+    },
+    {
+        "name": "Shipwire Receivings API",
+        "sourceUrl": "https://dbqm3ldcnkon5.cloudfront.net/yaml-resolved/v3.0-receivings.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-shipwire.receivings"
+    },
+    {
+        "name": "Shortcut REST API",
+        "sourceUrl": "https://developer.shortcut.com/api/rest/v3/shortcut.openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-shortcut"
+    },
+    {
+        "name": "Smartsheet",
+        "sourceUrl": "https://developers.smartsheet.com/api/smartsheet/introduction",
+        "connectorRepo": "ballerina-platform/module-ballerinax-smartsheet"
+    },
+    {
+        "name": "SoundCloud Public API",
+        "sourceUrl": "https://raw.githubusercontent.com/soundcloud/api/master/openapi/api.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-soundcloud"
+    },
+    {
+        "name": "Spotify Web API",
+        "sourceUrl": "https://developer.spotify.com/_data/documentation/web-api/reference/open-api-schema.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-spotify"
+    },
+    {
+        "name": "Square API",
+        "sourceUrl": "https://raw.githubusercontent.com/square/connect-api-specification/master/api.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-squareup"
+    },
+    {
+        "name": "Storecove API",
+        "sourceUrl": "https://api.storecove.com/api/v2/openapi.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-storecove"
+    },
+    {
+        "name": "Stripe",
+        "sourceUrl": "https://github.com/stripe/openapi",
+        "connectorRepo": "ballerina-platform/module-ballerinax-stripe"
+    },
+    {
+        "name": "The Movie Database API",
+        "sourceUrl": "https://developer.themoviedb.org/openapi/tmdb-api.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-themoviedb"
     },
     {
         "name": "Trello",
@@ -306,6 +810,81 @@
         "connectorRepo": "ballerina-platform/module-ballerinax-twilio"
     },
     {
+        "name": "Twilio SendGrid Mail API",
+        "sourceUrl": "https://raw.githubusercontent.com/twilio/sendgrid-oai/main/spec/yaml/tsg_mail_v3.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-sendgrid"
+    },
+    {
+        "name": "Vimeo API",
+        "sourceUrl": "https://raw.githubusercontent.com/vimeo/openapi/master/api.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-vimeo"
+    },
+    {
+        "name": "Weaviate REST API",
+        "sourceUrl": "https://raw.githubusercontent.com/weaviate/weaviate/main/openapi-specs/schema.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-weaviate"
+    },
+    {
+        "name": "WebScraping.AI API",
+        "sourceUrl": "https://webscraping.ai/openapi.yml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-webscraping.ai"
+    },
+    {
+        "name": "Xero Accounting API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_accounting.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.accounts"
+    },
+    {
+        "name": "Xero App Store API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-app-store.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.appstore"
+    },
+    {
+        "name": "Xero Assets API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_assets.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.assets"
+    },
+    {
+        "name": "Xero Bank Feeds API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_bankfeeds.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.bankfeeds"
+    },
+    {
+        "name": "Xero Files API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_files.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.files"
+    },
+    {
+        "name": "Xero Finance API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-finance.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.finance"
+    },
+    {
+        "name": "Xero Projects API",
+        "sourceUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-projects.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-xero.projects"
+    },
+    {
+        "name": "YNAB API",
+        "sourceUrl": "https://api.ynab.com/papi/open_api_spec.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-ynab"
+    },
+    {
+        "name": "Zoho CRM REST API",
+        "sourceUrl": "https://raw.githubusercontent.com/zoho/crm-oas/main/v8.0/record/record.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-zoho.crm.rest"
+    },
+    {
+        "name": "Zoom API",
+        "sourceUrl": "https://raw.githubusercontent.com/zoom/api/master/openapi.v2.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-zoom"
+    },
+    {
+        "name": "Zoom API",
+        "sourceUrl": "https://raw.githubusercontent.com/zoom/api/master/openapi.v2.json",
+        "connectorRepo": "ballerina-platform/module-ballerinax-zoom.zmeeting"
+    },
+    {
         "name": "Zoom Meetings",
         "sourceUrl": "https://developers.zoom.us/docs/api/meetings/",
         "connectorRepo": "ballerina-platform/module-ballerinax-zoom.meetings"
@@ -314,6 +893,10 @@
         "name": "Zoom Scheduler",
         "sourceUrl": "https://developers.zoom.us/docs/api/rest/zoom-scheduler-api/",
         "connectorRepo": "ballerina-platform/module-ballerinax-zoom.scheduler"
+    },
+    {
+        "name": "Zuora REST API",
+        "sourceUrl": "https://developer.zuora.com/yaml/swagger.yaml",
+        "connectorRepo": "ballerina-platform/module-ballerinax-zuora"
     }
 ]
-
